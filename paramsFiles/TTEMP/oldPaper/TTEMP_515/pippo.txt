@@ -1,0 +1,3231 @@
+commit 65911b2992ca1fe406ce8e591eb58fd2658bbf86
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Mar 4 18:21:37 2022 +0100
+
+    new cali adherence R01
+
+commit 21c00110b6269ecfd5683a8faa033e3a37603b61
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 28 11:38:57 2022 +0100
+
+    TTEMP interv fixed
+
+commit 2668bd3a32c2771f7ae19e202c22f1305ea7aa29
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 27 14:52:29 2022 +0100
+
+    no read inter TTEMP
+
+commit 3f50da0fdc29f9baa7eb74cf64d168c46ca410a9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 27 12:39:55 2022 +0100
+
+    TTEMp seroconv cali no adherence cali 2
+
+commit 471413f5acd6c69cea754b51d8a09068e34260e1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 27 12:34:40 2022 +0100
+
+    new seroconv TTEMP no adherence calibration
+
+commit 640b768cc56bc44e17643d0ad151381575c0d375
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Feb 24 10:10:54 2022 +0100
+
+    adherence = 0.5
+
+commit 4999304bf98a5b17b671d1f5fa2d86d15e9b2704
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Feb 22 14:22:43 2022 +0100
+
+    new calibration with adherenbce = 0.5 TTEMP transmission
+
+commit edc7f9f8c190f65b51d06c9e550aae9f6c802f34
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 21 11:47:17 2022 +0100
+
+    new with changes for R01 adherence calibration 9
+
+commit 1be2e7942f838b1976ed582eda8a15683aa619f1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 21 09:51:10 2022 +0100
+
+    new with changes for R01 adherence calibration 8
+
+commit 9b9404906f443b9d84c8ccdc6e79ee9c5636ef4f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 21 09:49:34 2022 +0100
+
+    new with changes for R01 adherence calibration 7
+
+commit 4c0e2cd11d46e61d1a73725b2cf15463e7fe42e7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 21 09:47:23 2022 +0100
+
+    new with changes for R01 adherence calibration 6
+
+commit b508485bc6f2826c354b6f50fd49f5f90625ceb5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 21 09:37:29 2022 +0100
+
+    new with changes for R01 adherence calibration 5
+
+commit 0ef4adf22b855eb3aede35335245d8aa98f50697
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 20 18:14:05 2022 +0100
+
+    new with changes for R01 adherence calibration 4
+
+commit 6f4579ec7bdc041b6af7f6dcb50d32522a87ef13
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 20 12:34:15 2022 +0100
+
+    new with changes for R01 adherence calibration 3
+
+commit 981f49ce2dba9defebb139d26edb6e9b6a15e0cf
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 20 12:32:09 2022 +0100
+
+    new with changes for R01 adherence calibration 2
+
+commit 788130f9b38e1393dda6d377a19dc709744bd7f1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Feb 20 11:10:34 2022 +0100
+
+    new with changes for R01 adherence calibration
+
+commit 67aed92c479888c482816e9939b60e23aa04fc44
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Dec 28 20:33:51 2021 +0100
+
+    new serconversion calibration TTEMP with do interventions 2
+
+commit 76e3aa95034ba9a772e2584d7ccaf46f2acf8445
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Dec 28 20:28:04 2021 +0100
+
+    new serconversion calibration TTEMP with do interventions
+
+commit 8533f5dcaddff9e0c6c5f35d957fad2bcfcae625
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Dec 27 19:33:12 2021 +0100
+
+    seroconversion TTEMP calib 2
+
+commit 628122c6be615920fc928f47a82fde9dbc75ad49
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Dec 27 19:21:02 2021 +0100
+
+    new to seroconver calibrate TTEM
+
+commit 885a7bb8753aa0f5e00d6182fd3ffbca94a836c2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 22 23:55:59 2021 +0100
+
+    border effect 2
+
+commit 5bdef3173eab1423d16c1071f07b756a1c4e9691
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 22 23:51:05 2021 +0100
+
+    last border effect arrangement
+
+commit 56d87f7858c73293bcc41e0f22ec1e9c2ebe147e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 21 12:33:54 2021 +0100
+
+    to recalibrate trans TTEMP with border effect
+
+commit 3b7d2792829d5479aeecf0fe92efe325c016ec42
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 15 19:25:50 2021 +0100
+
+    to run another TTEMP transmission calibration 7 villages + adherence
+
+commit fb180cca7ac7681b6f47b80212c1bfecb03c8759
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 8 11:31:56 2021 +0100
+
+    ABC_test R01581
+
+commit 31ee9edf2c841aefa4f44d5d2322271cec729f1b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Nov 27 12:04:33 2021 +0100
+
+    R01 interventions serology stats remuve from statistics
+
+commit f210222455a87fa220739070fc98e8e61628b26f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Nov 26 10:42:07 2021 +0100
+
+    prlonged burnin for intersim R01
+
+commit b346c7d43e08dec662172837bdd252759b8233b9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 25 11:56:22 2021 +0100
+
+    new for R01 interventios 5 or 6
+
+commit 966b303acf9bed53b558a8ff81ea95534b4301a9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 25 11:52:12 2021 +0100
+
+    new optimization forv speed R02 interventions calibration
+
+commit db84054732405583f7c7f2269f943491232eb3ed
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Nov 23 15:45:33 2021 +0100
+
+    R01 intervention calibration 4 attemp
+
+commit fffb193092862cd694a6787f57d922e8e4e25afd
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 22 18:40:54 2021 +0100
+
+    first attempt to calibrate R01 interventions num 3
+
+commit f77b886a52dd18bc03c5a7d0e82a61d0db585ce7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 22 18:20:48 2021 +0100
+
+    first attempt to calibrate R01 interventions num 2
+
+commit aac4f8ab4c3ff952c03ddeea18c1d55346810205
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 22 17:37:16 2021 +0100
+
+    first attempt to calibrate R01 interventions
+
+commit 70e7b50b14ba402fa2146a8af2ff333f85460d8a
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Oct 18 10:45:42 2021 +0200
+
+    new para-run for all with home dir new
+
+commit a75770bcee340f496f77691c5bf1f3f9ccd50cb3
+Author: pizzitut <pizzitut@metal-2-0.local>
+Date:   Mon Oct 18 01:35:32 2021 -0700
+
+    new templates for linux
+
+commit c2a46b940386a11a078b72565e0c34c9d3f4457c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Oct 15 16:05:13 2021 +0200
+
+    new obs serology ttemp no round 2 and 3 for adult pigs
+
+commit a2927c757b4f09cb4a11c1df592bd9e5ce4a8a46
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 30 10:39:57 2021 +0200
+
+    config for new seroconversion calibration 7 villages 2
+
+commit 8ce9656568d9374ed65dab30543525bec877b089
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 30 10:31:27 2021 +0200
+
+    config for new seroconversion calibration 7 villages
+
+commit 763d245d0430ce5fb041371d5320d6b1b01df357
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 30 10:09:39 2021 +0200
+
+    new cali 7 villages transmission parameters
+
+commit 32bcd2e6fab573078eb0e6d9878a7244cc078eb9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 16 12:56:51 2021 +0200
+
+    corrected HT for village 510
+
+commit 85ddebc9eeb3caf7f408aa274b5bfc10c196e8cd
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Sep 9 06:47:57 2021 -0400
+
+    remote new check for input and runs in extensions
+
+commit d8c1059b6ccb66c8e6749dbce5f9540ce9b0429f
+Merge: 3fe4fa5 8deeabc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Sep 8 16:26:49 2021 +0200
+
+    local general checks 2
+
+commit 3fe4fa59bea3f7b6d8dc05aa0f16a846e3c5a1cd
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Sep 8 16:25:06 2021 +0200
+
+    local general checks
+
+commit 8deeabcd4fba125ed2d84de17e06f8a5cc32731b
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Sep 8 10:24:42 2021 -0400
+
+    remote new params ABC no TTEMP 517
+
+commit e5d25c518ff31bf33df58d3043f43cadf2e5b780
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Sep 7 07:47:47 2021 -0400
+
+    new sh compilers for cluster 2
+
+commit 845658de0df248e7ce789b0551e0adde82a98ad9
+Merge: 2af9c93 82d14f4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 7 13:39:59 2021 +0200
+
+    before new sh compiles for cluster 2
+
+commit 2af9c936806de8d1e1c991ab8831b13489026c1b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 7 13:39:21 2021 +0200
+
+    before new sh compiles for cluster
+
+commit 82d14f443b69e9038e23715a4727666c51e9d137
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Sep 7 07:38:42 2021 -0400
+
+    remote new compile sh for cluster
+
+commit 251191423107d4094bdf910017c849ea4e3e6c09
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 7 11:50:10 2021 +0200
+
+    pigs params adjusted for all villages
+
+commit 4744c3f24566d910966a6230508fbb49527c8030
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 6 22:17:44 2021 +0200
+
+    new pigs ages 3
+
+commit 7e623c3ff33a3748c169cea43294a93f46838e5b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 6 22:12:57 2021 +0200
+
+    new pigs ages 2
+
+commit e72b15ba6ce69d893ccff4b24201d57ee1df10c3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 6 15:38:32 2021 +0200
+
+    local new transmission params 2
+
+commit e2582b0e2b67ffc2581a887260c332226ec21600
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 6 14:21:36 2021 +0200
+
+    local new transmission params
+
+commit 6cf7e477a525de056b9d20710b05ee3aafc6ea66
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 6 12:35:00 2021 +0200
+
+    new pig age distribution
+
+commit ebc3b3e0cc3d033424d4c8a1f4ebbcb44baed7f9
+Merge: 67fdacf 67eac22
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 3 09:41:57 2021 +0200
+
+    punto di recupero prima della destruction
+
+commit 67fdacf07ab5b5b6a7d07242d97c2dd80956c418
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 31 11:57:02 2021 +0200
+
+    first dropbox
+
+commit 67eac22aea6f708192c529ecf0b3b5765e037ca9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 31 11:10:34 2021 +0200
+
+    TTEMP cali transmission 8 villages 2
+
+commit a5eaa71f14f50a804292ce6609633897aa35632e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 31 10:51:55 2021 +0200
+
+    TTEMP cali transmission 8 params
+
+commit 839e016435c6eafd0c442aa2b5594f91f4b5389e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 17:26:59 2021 +0200
+
+    test rujns sh 4
+
+commit 2b19903a00d409b2f8498db0d69e6db0fe600aad
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 17:13:40 2021 +0200
+
+    local readded sh extension runs 2
+
+commit a1ad0accd8e1f06e469174dc299e949a42ae0b3a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 17:11:51 2021 +0200
+
+    local readded sh extension runs
+
+commit ace0a4719f085c143e6237812c3c73ed026e958e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 12:21:41 2021 +0200
+
+    test rujns sh
+
+commit 30405f871888b1b2b327f21469adf85400b6f23c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 12:06:44 2021 +0200
+
+    5Sero corrected
+
+commit 22918660aec45aa764a025f6b26fed4c7c7413cf
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 26 11:14:43 2021 +0200
+
+    seroCalibrations main test 1
+
+commit 25fad15c38da9cc0c5125a7100846595175954eb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Aug 23 11:16:30 2021 +0200
+
+    TTEP obs updated
+
+commit 2d7e3c5caba6cf2e4c3a268a98aba2744414166e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Aug 23 11:11:23 2021 +0200
+
+    TTEP obs updated
+
+commit 78f7fb870686ef3eb617da2bcc872480e76a8db8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Aug 23 09:44:47 2021 +0200
+
+    8 villages par seroconv
+
+commit 7402a91557a98c3300de89f14a55fb3b174939c3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 3 15:58:12 2021 +0200
+
+    to run R01 in the cluster
+
+commit c9be956ea816a7dbd963ebcfe53094d415be310d
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Sat Jul 31 11:59:12 2021 +0200
+
+    new 1 run cali seroconv TTEMP
+
+commit 42f88e210e4a349463db46defba5bbf23173a3dc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 28 14:36:05 2021 +0200
+
+    serology update 3
+
+commit d308bc493f8c7574706d97433780e7cdde387a85
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 28 14:31:42 2021 +0200
+
+    serology update 2
+
+commit da7898232c0903f7e6691cf9e10b65cd724b90c0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 28 14:27:19 2021 +0200
+
+    new seroconvertion
+
+commit 375581be5a76ca4582dab3df32b18b1fb2f0612a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 22 16:39:34 2021 +0200
+
+    missing TTEMP added
+
+commit fe7313d3d28a9fe4ebd8a2df81894ccbffbf1a32
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 21 14:43:19 2021 +0200
+
+    jdk for cluster adjusted
+
+commit 7214fad082cc94b40a5575f804f73f8f00fa1f01
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 21 14:33:25 2021 +0200
+
+    params corrected calibrated
+
+commit 0d9e1462a5146fe41b770bd476747ac517827b0b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 21 13:13:10 2021 +0200
+
+    new TTEMP obs for ABC from averages
+
+commit 248e135a7530476a3374b3de9d2b1853c6846322
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 9 19:08:40 2021 +0200
+
+    GATES2 params files updated
+
+commit 31bc518c4b0248f0ee41f0afe393d8d81cb1b25d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 9 12:51:15 2021 +0200
+
+    cystiHumans divergence eliminated
+
+commit 7feadd4e0bb9a7aec59fe9f999c2854aa09a7c41
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Jun 1 09:29:44 2021 +0200
+
+    long cali 4sero
+
+commit 98fac72deba78326faad18db0b0701f19dc2c737
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon May 31 17:06:44 2021 +0200
+
+    maternal seropre adjusted loca
+
+commit 81efa8f936ab310c4a38d6b483297ac3b6dec53d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 28 09:54:18 2021 +0200
+
+    local abc ttemp changerd parametrs
+
+commit 64b216230e3df8523c5a9735d2b184a4c7052669
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 28 09:41:35 2021 +0200
+
+    piglets prev zero adjusted
+
+commit 92ffeb61041d05158ced6ce9b23d972696e2b39c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 26 09:46:54 2021 +0200
+
+    local new params for TTEMP 2
+
+commit ad24a513a426469cb2460b8a30178b87c106ae62
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 26 09:43:19 2021 +0200
+
+    local new params for TTEMP
+
+commit f539a10d4957d9bccbe3b4decd8dda0fc4dfcbb3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 25 14:43:43 2021 +0200
+
+    extension params adjusted
+
+commit c51186d472bf40ee70f71f6a5063b081131191ba
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 24 10:22:33 2021 +0200
+
+    new params because git not updated remote local
+
+commit 403d24ca959722fe53f4444f80f0dfe14d23d5bb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 21 16:56:04 2021 +0200
+
+    piglets prev corrected 2
+
+commit 505a21999fc65c538c1aa6c2d3659c41e1da21f4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 21 16:50:44 2021 +0200
+
+    piglets prev corrected
+
+commit 5c745ec43b62900166d27d702042f07ca9afbba8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 19 09:06:29 2021 +0200
+
+    local some params problems 2
+
+commit 8640ea2b2473724481cb0750a208305d4bee8084
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 19 09:03:08 2021 +0200
+
+    local some params problems
+
+commit d42b6e4efca370885801676c02536bd7fde2da1c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 17 10:24:31 2021 +0200
+
+    new seroconversion representation for Sero4 TTEMP calibration 2
+
+commit 1137072baaa26a46eeb32e9cacc6ef8b1d65140b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 17 10:21:58 2021 +0200
+
+    new seroconversion representation for Sero4 TTEMP calibration
+
+commit 90f4b975dfc5f211797c391bd14b7af6ffc5343b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 10 16:58:23 2021 +0200
+
+    local serconversion maternal protection 4 parameters 3
+
+commit 7237f2d10b5dd744730ab3e67bc0b1e5e37591b4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 10 16:57:27 2021 +0200
+
+    local serconversion maternal protection 4 parameters 2
+
+commit f23bc06b6a6841e8ea60063e58ce56ceb6b5acb7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 10 13:20:24 2021 +0200
+
+    local serconversion maternal protection 4 parameters
+
+commit 3df70050e9c6f1c556b8ae80467bc1f4dae546f9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 7 17:52:22 2021 +0200
+
+    antibodies persistence piglets implemented 2
+
+commit 8e80ceed74906a79b8a70017d6a601c4aaf414e0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri May 7 17:50:08 2021 +0200
+
+    antibodies persistence piglets implemented
+
+commit c6bcb65a0c66651145e581cf64434c29386f179d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu May 6 10:03:37 2021 +0200
+
+    obs file local added
+
+commit 5328aef617332fa49ccc92bbf719dac3f22286f3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu May 6 09:19:12 2021 +0200
+
+    obs file local added
+
+commit ea5b788e5af6043bb868fb1a6b5ac1bea1c658ee
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 4 13:13:45 2021 +0200
+
+    local test extensions R01
+
+commit 58936c5b31fdd7a8e63a3ac1246a319d1f105710
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 3 19:33:22 2021 +0200
+
+    local few changes printOut
+
+commit 977fec2b9178d52c0c2a43b16fee88a2b75f69f3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 3 12:15:39 2021 +0200
+
+    seroInc TTEMP updated 2
+
+commit 6246434dd95c405af02eb561c8d84c2dfb2b5c55
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 3 12:14:02 2021 +0200
+
+    seroInc TTEMP updated
+
+commit 4b42249891008f83831ee8cc8249332566944b56
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 3 10:50:19 2021 +0200
+
+    TTEMP seropreve reading fixed ready for new seroconverion calibration
+
+commit d19ce39f62105cb054e8e4291097f39f5a523d38
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 14 14:24:43 2021 +0200
+
+    inputData uploaded for GATES and R01
+
+commit 14c5177d7f19fff5688b788ffa16d31cfededb93
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 14 14:11:03 2021 +0200
+
+    GATES2 params added
+
+commit 51df339d600eea967845086a1ab4fd2d045910c6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Mar 11 10:26:04 2021 +0100
+
+    local to transfert to calibrate serology
+
+commit ac369df9b891954f162ed4898a9177b3729dd7f4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Mar 11 08:20:19 2021 +0100
+
+    local lastst version not working sero
+
+commit d495f702676974ddcf6f9901299410a557125052
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Mar 10 17:25:24 2021 +0100
+
+    before relaunch the 2nd calibration fo serology
+
+commit ecc36ce2bda5b2cfc451bca0a5fc83d23be1f303
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Mar 8 11:09:41 2021 +0100
+
+    GATE2 + R01 + Gabrielle emigrant switcher 2
+
+commit 8a1fa860f24d1b2a6b6c0c115f620d8afb60f87d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Mar 8 11:08:22 2021 +0100
+
+    GATE2 + R01 + Gabrielle emigrant switcher
+
+commit 6dfa7f7a1216b6134a93990fefd2fb3d7b55d986
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Feb 10 14:33:41 2021 +0100
+
+    sero calibration loca
+
+commit 6be92d50358e97777283bc114ad3f0b37129d979
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jan 29 09:59:14 2021 +0100
+
+    local adjustement for CystiHumans ABC
+
+commit 8b24934a3aa88bd2a6f6fc0ad0e5122168ac2ef9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 27 19:07:54 2021 +0100
+
+    local setting all the transmission parameters to simplified calibration
+
+commit 601c9bb8309b4cd4a0d614ef3b78483689d84f9a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 27 16:23:39 2021 +0100
+
+    local CystiHumans changes to NCC prevalence adults 2
+
+commit b806b102d4ed448d50ec7882248f788c84c4e37f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 27 13:33:00 2021 +0100
+
+    local CystiHumans changes to NCC prevalence adults
+
+commit 6b0fe2fb06c0bbfbda3fd7e300cb4af4ff3299a3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jan 26 16:14:45 2021 +0100
+
+    local new cystiHumans averages -1
+
+commit 17d8b2fb22fe8d2198e307a7871d9e29f1aa60a1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jan 25 19:11:46 2021 +0100
+
+    local ABC cystiHumans fixes
+
+commit 3f3c0ab3343659dbe51c8e0f7dd75202d5615cb6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jan 22 16:00:16 2021 +0100
+
+    local necro fis to params
+
+commit 5c912ebdf7fe00e31a95762b92fa2f985356bf99
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jan 22 10:47:57 2021 +0100
+
+    local new adherenceTLatrineUse for simplified
+
+commit 1353bb4d56694df91d09ba66f8bba932e6659f42
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jan 19 15:57:24 2021 +0100
+
+    local new dist avg obs for CystiHumans 2
+
+commit 6e077e807a67758d2b2665c5a1a468a6a1d4810b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jan 19 15:38:59 2021 +0100
+
+    local new dist avg obs for CystiHumans
+
+commit 557487628eda385106d451d5125f0d5bb61881e4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jan 14 16:23:18 2021 +0100
+
+    local cystiHumans ABC fixes village picture path
+
+commit 63ca2cf12ad9f1b5b9699f14d72de7fee0b7b7a3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 13 11:20:29 2021 +0100
+
+    local last ABC cysti humans fixes for translation
+
+commit 06bcddc7dbb840bd49ba18ae552b558a933a3186
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 13 02:00:50 2021 +0100
+
+    local fixes for cystiHumans ABC
+
+commit d173fbb0183f3915ea64c0813a59c8ffba74f257
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jan 10 19:32:12 2021 +0100
+
+    local template cystiHumans fixed
+
+commit 10153624affbd53f06d8e411e149239165c82c25
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jan 8 17:00:38 2021 +0100
+
+    local cystiHuman stats corrected
+
+commit d63a73e59fa578d57e252444a5fa0e2eb083f7ed
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jan 5 10:29:22 2021 +0100
+
+    local eggs density eupgraded for cystiHumans 2
+
+commit 90bbdabbc3f17fc022908776991da805882351df
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jan 5 10:21:28 2021 +0100
+
+    local eggs density eupgraded for cystiHumans
+
+commit 9176390001da917bdd9f27b9ac794c3bdea50026
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Jan 2 18:19:04 2021 +0100
+
+    local same avg adherence no necro
+
+commit 542b704bef6bc092846e04727441f1fab2a0609d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 30 11:30:53 2020 +0100
+
+    local demo module yes necro
+
+commit c77c6688e78ac9d5b7f3aab14d5d077c5db10ea8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 29 12:14:06 2020 +0100
+
+    demo module upgraded 4
+
+commit bda1b1ef7b66efded90ed631d357a03c6affba39
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 28 18:18:43 2020 +0100
+
+    local demo module upgraded 2
+
+commit 5051f83767e34688803b974033de724f944fbafb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 28 18:15:04 2020 +0100
+
+    local demo module upgraded 1
+
+commit 94ae5d7722181079c850abf6eec52eaed9550ac2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 28 16:43:59 2020 +0100
+
+    local demo module implemented 5
+
+commit e907379a421fedeb580443d152d4f083ca2e2d5b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 28 11:38:06 2020 +0100
+
+    local demo module implemented 4
+
+commit 50686e6aea359584d326a3514358ded16b998d7f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 24 19:04:56 2020 +0100
+
+    local demo module implemented 3
+
+commit 2921b465be59def8587e4ecbe222cebfede64cc2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 24 19:02:56 2020 +0100
+
+    local demo module implemented 2
+
+commit 59d5303772d8bc924c66583f4613d36f945d3261
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 24 18:59:06 2020 +0100
+
+    local demo module implemented 1
+
+commit d9996efcd97dbee6417cb0acaea54fe11ac26001
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 21 09:32:14 2020 +0100
+
+    local necro dist calibration
+
+commit 6620c6adfa293753e39f5c460bfe00a2639a385d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Dec 20 20:03:48 2020 +0100
+
+    local last final commit after and before G with density fact No exp decay No defecation norm No cum Poisson
+
+commit a6c233d1d3a1e2109a1e06188a6dcbd6872c7100
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 17 20:36:48 2020 +0100
+
+    local newG no def sites a denominator - num of households with density of households factors
+
+commit 781873476ba86d869cd04a4aa1c11d1bf1906628
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 16 18:36:19 2020 +0100
+
+    new cystiHumans changes local 2
+
+commit 2105ccaa697388caa55c3ef88045e8d0369225ce
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 16 18:34:24 2020 +0100
+
+    new cystiHumans changes local
+
+commit 9ee48d4c477889c3fde334c74e40f7d69344bfe3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 16 14:47:55 2020 +0100
+
+    noG but with removed normalization of proglottis by the number of defecation sites
+
+commit 8545509d8700eb2a024ec3d9ab17a0002fe984bc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 16 10:24:41 2020 +0100
+
+    local with Gaby NoExp  decay No cum Poisson No norm by numDef sites. rimane Village area 7 per eggs dopo aver messo limite a sigma in home range
+
+commit c4a05b59e2e5b338fcd3b9badcfb99fdfcd6ba13
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 15 17:25:49 2020 +0100
+
+    yesG no cumulative Poisson no exp Decay No nor by num defecation sites
+
+commit cc068800fd6c9024b3ce37e294829c218049db32
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 15 12:40:55 2020 +0100
+
+    local with G but not village area (and no expDacay) 2
+
+commit c70dc824caf1e1062cff36a89cb644d8631938ae
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Dec 14 19:45:23 2020 +0100
+
+    local with G but not village area
+
+commit 90d58797bac1d6dbb2a1603e81d98542faf8896a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Dec 13 12:13:12 2020 +0100
+
+    new version with G changes with exeption of exp eggs decay
+
+commit 912bb6c7d7575ad5cf8c127785ddf9d978e181ca
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Dec 11 19:32:54 2020 +0100
+
+    local time backward befrore Gaby additions 2
+
+commit b63c100ff8dbca4f8b07d01315b21fe4c94ba953
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Dec 11 19:28:52 2020 +0100
+
+    local time backward befrore Gaby additions
+
+commit 53ced41db38d799249daa61ef690790b2f3f7e33
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Dec 11 15:37:40 2020 +0100
+
+    last changes cystiHumans 2
+
+commit 5ca712978ea061a56e17e379abb2f8d6c16c1ca4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Dec 11 11:43:06 2020 +0100
+
+    local last changes cystihumans
+
+commit 6282f947ebcd43bf20b124de04ffea36a6be9fc3
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Dec 7 18:16:05 2020 +0100
+
+    print input fro cystiHumans local
+
+commit 417b22016c7e675e1acce01833f3f425f81e0fd8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Dec 4 12:01:32 2020 +0100
+
+    local outcomePoll now throws exception
+
+commit 9ac8bff12a1dced80e2ce7da911192080fd7fd80
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 3 17:20:21 2020 +0100
+
+    local immunity notatio fix
+
+commit 3dc9c4c8d21985d36f53f1d9744f472ed571ec2b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 3 12:03:00 2020 +0100
+
+    local extendedOutput added
+
+commit 70b53398b39c2eb033a4b853309216ef60254233
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Dec 3 10:31:55 2020 +0100
+
+    local sara l ultima di numcysts? bho speriamo senno spacco il computer
+
+commit ccee6407ae533032232720f64852fe98eb103139
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 22:56:23 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 12
+
+commit cef304bcf30136ec182e7fd8c16aed43104ff8da
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 21:21:57 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 11
+
+commit 09578f17090d9336673663ac3e886e8e5cc9ca5e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 20:36:49 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 10
+
+commit 6c155709b76f4255628efe102db0d58fb327c38c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 19:14:07 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 9
+
+commit 657269a2e65682f5c8435f8a943c0263a264f865
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 18:43:06 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 8
+
+commit d52bc37c6f40315d13a94ee6d3c633d6e564859a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 13:30:52 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 7
+
+commit 5521d3d178169debc356d8485fd28b8629d265a1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 13:24:28 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 6
+
+commit 08d4e2c25b599346b6284bacc25afa52e1392bbf
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 11:29:42 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 5
+
+commit 876528d5b7f0969b760f00fdea309167f3aefc90
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 11:23:19 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 4
+
+commit 09c3862b6ee63edf1cf37719610dc64bc075be47
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 08:51:39 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 3
+
+commit 124dbb3a8ab179dbdda6bb326701f120549866ce
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 08:50:24 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 2
+
+commit ca51880067c7bf67c79219c3189e4dffed42f35c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Dec 2 08:49:22 2020 +0100
+
+    last problem numCysts ricomincio merc 8h49 1
+
+commit 35bc913b1b393476cdb9696145b7b112d0a973c6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 1 21:23:29 2020 +0100
+
+    last commit problema numCysts 4
+
+commit 3ef742a21bb4c89a3bf92226ae48340f03570aa3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 1 21:22:12 2020 +0100
+
+    last commit problema numCysts 3
+
+commit 19d4527ab97e5969f2a6ad9e6aad118c3a9611a9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 1 21:19:09 2020 +0100
+
+    last commit problema numCysts 2
+
+commit c14c5ca911ccb9f56509eb7ad3403aa05a0bbfd9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Dec 1 21:16:06 2020 +0100
+
+    last commit problema numCysts
+
+commit 3d9477bc22e5e5e2caf9eb9c521ff7d77424b934
+Merge: cb70cad 44f826d
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 30 16:21:21 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 44f826d6d06ec9c9c9d6df8c8e333121f9a4ffe6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 30 22:18:00 2020 +0100
+
+    loca che pasa con el output? 3
+
+commit cb70cad1b394efc70e470d3cdd051eeff7cf4a3d
+Merge: e51219b 4bbc7b3
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 30 12:55:43 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 4bbc7b3ade5e6a43fe42b9bbb9b14a8c171bb547
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 30 18:55:09 2020 +0100
+
+    loca che pasa con el output? 2
+
+commit e51219b9ad9f718c4db03674a0d300950a7a6de7
+Merge: ef69cdd 43f6d4f
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 30 12:42:53 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 43f6d4f8dece12286c75c1e77eac8348107d0e0a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 30 18:42:19 2020 +0100
+
+    loca che pasa con el output?
+
+commit ef69cdd52ba01ee4c817d0df606c047bc3e1960c
+Merge: 8ec3e61 26979b2
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 30 04:43:12 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 26979b253ac276be0163bc8eb0c9f325e494f5b1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 30 10:42:43 2020 +0100
+
+    local decya rate
+
+commit 8ec3e6159efe3a5d710a5e06ab19b57b8a5ee07e
+Merge: e1f9d57 9857f29
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 30 03:38:28 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 9857f29d44249f8041cba67bd9080ad2dab0bb99
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 30 09:37:51 2020 +0100
+
+    local with 7 in eggs \pig infeciton
+
+commit e1f9d5795c3aa14bf14fd3ebae39b8638269c16a
+Merge: 56bd51d 73f3936
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 29 14:03:54 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 73f3936bbe235654540393032b1a38982e117bfa
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 29 17:23:03 2020 +0100
+
+    local stageprevious 2
+
+commit 56bd51d6bc8d1d4997e9fc29557667ec71e64c6f
+Merge: 5f1ffac 0e9eee2
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 29 08:18:14 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 0e9eee2373572d6eae706ed5bc7264065d5dc317
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 29 14:17:19 2020 +0100
+
+    local stageprevious
+
+commit 5f1ffac3795ee153cb2af068893e2101f52d539a
+Merge: 28ac7a0 d037fda
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 29 06:38:58 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 28ac7a0967ca07c47a1583b71b753aef163d97e7
+Merge: 8634724 a3bc968
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 29 06:34:28 2020 -0500
+
+    remote few
+
+commit d037fda8e0a3dd2db79e2c6871736da5f14bfcc7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 29 12:32:08 2020 +0100
+
+    local stageDonePreviousStage
+
+commit 8634724c1351aaf8a5ae6b29563ce56f6e97ad10
+Author: oflixs <oflixs@gmail.com>
+Date:   Sat Nov 28 08:54:22 2020 -0500
+
+    remote eggs decay intr
+
+commit a3bc9681136c82b685f5eafd809bc1babad84b1d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Nov 28 14:53:29 2020 +0100
+
+    local exponential eggs decay introduced
+
+commit 1392cbeb698a3b523f6cac142cfbd004dbe60719
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Nov 27 07:13:49 2020 +0100
+
+    local run numbering upgraded with randoim int 2
+
+commit c74c4095a8b4655ed4b9cb5aa2ddccb15a31028c
+Merge: 08db6aa fb97e68
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 23:49:24 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit fb97e68f28a585d62e8965f9c84770c6dd223617
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Nov 27 05:48:47 2020 +0100
+
+    local run numbering upgraded with randoim int
+
+commit 08db6aab53cb47ab6d06a3bda9bf5ceb98c39be1
+Merge: e05d76f 4ff791b
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 07:32:11 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 4ff791b5722b2197e40e8d29ce7552377e017418
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 13:31:32 2020 +0100
+
+    local GB comment on transmission included 4
+
+commit e05d76f562827f0905603cdf3f7b373ee9ab3770
+Merge: 5baef4c 530e15a
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 04:42:07 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 530e15a5a1cf82e5638e4974438d9dc057d5f4b9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 10:41:23 2020 +0100
+
+    local GB comment on transmission included 3
+
+commit 5baef4c3524d2c0f496f140eee3bb253cd97ada3
+Merge: 179b9df f8a1750
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 04:33:55 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 179b9dfd4747448fcde85ee1c5077d2b0abc2900
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 04:33:49 2020 -0500
+
+    local few
+
+commit f8a1750bf3a33e2cc73ab2ceda09d24fb8d73d40
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 10:32:34 2020 +0100
+
+    local GB comment on transmission included 2
+
+commit 030ef39a12e18e90baa44f48aaa97c2423b7320f
+Merge: 201e70a c31ee8c
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 04:08:03 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit c31ee8cf46b4640c0ef74d487c1dba01a63c6dc6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 10:07:36 2020 +0100
+
+    local GB comment on transmission included
+
+commit 201e70aee190b1a10f36ebf21ffb4d133f7fc343
+Merge: 7c7dcd6 d80ed0b
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 01:35:52 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit d80ed0b218a657d8d583077a63a60ad2b2841f37
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 07:33:54 2020 +0100
+
+    local cystihuman fixes 2
+
+commit 7c7dcd6b3d9586a94eb41192b373d9a99837ebfc
+Merge: 9b2975c 528b914
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 01:26:16 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 528b9144b0f6a32dee21a97736b0d3320817ea3d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 26 07:25:53 2020 +0100
+
+    local cystihuman fixes
+
+commit 9b2975c1138b48b3a957755801d8492d754fdfb3
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Nov 26 01:25:31 2020 -0500
+
+    local cystiHumans fixs
+
+commit 731805130906e9341a305854ae73e1682c6cabfb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 25 10:14:11 2020 +0100
+
+    local sh no compile 2
+
+commit 961c4846e7151c987a1da1db912e5bd10ab21ff8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 25 10:12:00 2020 +0100
+
+    local sh no compile
+
+commit 6f926d1ac811914e48add45c2e40c3a606ad775e
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Nov 25 03:56:30 2020 -0500
+
+    from remote to sh Runs
+
+commit c02e28bfd656449b89134b6017b80cb027d3b813
+Merge: 2b3980c 47a9f1c
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Nov 25 03:17:52 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 47a9f1ce528784c9d00e3dfb50329cb5cff61c43
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 25 09:17:25 2020 +0100
+
+    Gabrielle changes local
+
+commit 2b3980c774454268d3d161580785f508e2a9f59e
+Merge: bc61200 8b08dd8
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Nov 25 03:16:17 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit bc61200c20ec9b7248c6232ddb900da0a09c7dc1
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Nov 25 03:16:03 2020 -0500
+
+    remote few
+
+commit 8b08dd871fe3b6e8650835e17bbfdf45aa9c8ba8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 25 09:11:06 2020 +0100
+
+    Gabrielle changes local
+
+commit 3c07a6ba1a8472eb4614ef351d072f1b40c1b0f1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 23 11:24:57 2020 +0100
+
+    local new scaling factor in input
+
+commit 61ae6b6b97ffbd2b1b1c00b4d4eaca11c9a4a01c
+Merge: f4a1d04 ab27768
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Nov 23 04:32:53 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit ab277687a9414229b6bc02aeee0c4a38bf7f2306
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 23 10:31:00 2020 +0100
+
+    local R abc fixes last esperemos 5
+
+commit f4a1d04f3c87f11b727a53f4dca338c18b826667
+Merge: c691328 a28d55c
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 16:49:34 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit a28d55c3c8d22e82d45d8ee974c4930fca0d5860
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 22:48:58 2020 +0100
+
+    local first lunch ABC R
+
+commit c6913283bdd29bc14be208d695d063981f0f45ce
+Merge: ac2e11a 92d06d2
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 16:29:49 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 92d06d2092cdfcf28e8c3089401615831aded99a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 22:28:45 2020 +0100
+
+    local R abc fixes last esperemos 4
+
+commit ac2e11ad3958706eb04f9d7dc9a2f6ed973a8896
+Merge: dcbbbf6 e661bff
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 15:46:02 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit e661bff7ad941bad263e546e2b8ddaa5e78be0c6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 21:44:40 2020 +0100
+
+    local R abc fixes last esperemos 3
+
+commit dcbbbf62bf2f7090d5f7ebbadf081c854b1dfb69
+Merge: e471e1a e36eb7c
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 15:08:38 2020 -0500
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit e471e1afd89ac961ee261d30187155a1ca3a7576
+Merge: 5d9189c e2e6923
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 15:08:19 2020 -0500
+
+    remote few
+
+commit e36eb7c85a96f60d1b4961cf0f59b2dee9f0a631
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 21:07:15 2020 +0100
+
+    local R abc fixes last esperemos 2
+
+commit 5d9189c825a04a3d4dbb2dd32429cd813abae27b
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Nov 22 13:04:57 2020 -0500
+
+    remote few
+
+commit e2e6923f2b3acde9b35af3e1ff725ce9ad34d958
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 19:04:14 2020 +0100
+
+    local R abc fixes last esperemos
+
+commit 4dd4cba75788ec266bacd1c1dce67f885f15ee74
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 22 18:51:50 2020 +0100
+
+    local last abc R adjunst speriamo la madonna che funziona senno cambio lavoro
+
+commit 71db16d7c1647ccd5f2c580916ad13cc925b9268
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 19 09:38:34 2020 +0100
+
+    first stage very low memory strategy 2
+
+commit 95404413b0e19df199c22986e65b68edeed47b77
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 18 22:38:30 2020 +0100
+
+    local first stage very low memory strategy
+
+commit ede8af0706ecc90647abf07e4af47cef32e3d143
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 16 08:20:25 2020 +0100
+
+    local R abc fixes 3
+
+commit e33c42233f1c6fb35fc8af217a41d3dbf65cd57f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 16 07:54:36 2020 +0100
+
+    local R abc fixes 2
+
+commit 6ac94e0b44cfa0cf00be5f7367d30c80cc24a0b6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 16 07:24:01 2020 +0100
+
+    local R abc fixes
+
+commit c719c3dd85e9c5dfc2be5ad6b2e419ee4638de1d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 15 18:12:27 2020 +0100
+
+    local now abc R and java are perfectly the same 3
+
+commit b983ff73b2b9c273cb766ba4b3e8a75d7cbe2271
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 15 17:55:02 2020 +0100
+
+    local now abc R and java are perfectly the same 2
+
+commit dd7e68ad77846735af23c0d6a4280287a264e2e2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Nov 15 17:41:01 2020 +0100
+
+    local now abc R and java are perfectly the same
+
+commit 8f9d6f4d014d06fcbd0274c3bdcc6350acedb58d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 12 23:30:12 2020 +0100
+
+    local MAD norm added 2
+
+commit d24e4ecc5a39d0bcca9a38442cd5b272b9ad82d2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Nov 12 22:53:32 2020 +0100
+
+    local MAD norm added
+
+commit 3449e29ac3b4145218c0d372ef349450b99b79fd
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 11 10:51:36 2020 +0100
+
+    local new simplified model 3
+
+commit 6e99b555e534f805fc0cd10242fca56bc8cadf52
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 11 09:07:26 2020 +0100
+
+    local new simplified model 2
+
+commit 9e19dcb80641b9f0418bc0acbbc5b7b90e45fd4b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Nov 11 09:03:24 2020 +0100
+
+    local new simplified model
+
+commit 4f577d05034633e1088d34eb036d8b5f66328a61
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Nov 6 09:48:37 2020 +0100
+
+    local cysti humans 3 changes 2
+
+commit d7263ae56bfcb4f3be03029f8b9329eb7e0f53ea
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Nov 6 09:37:43 2020 +0100
+
+    local cysti humans 3 changes
+
+commit 6543a30d4e9b75dc44ea098836fd4514eac34edc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Nov 3 10:19:07 2020 +0100
+
+    local ABC lowmemory 1
+
+commit 8549c5b2459f1697b126f8cf86ecd244ce046321
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Nov 3 09:09:59 2020 +0100
+
+    local ABC outputs for R modified 4
+
+commit f5290dcc6fc141fbab8a196bce20a758d3dd1ff8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 2 19:35:59 2020 +0100
+
+    low memory runs local 2
+
+commit 8315072e9d3f211358083c50d48e2636742785e2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Nov 2 18:35:30 2020 +0100
+
+    low memory runs local 1
+
+commit a9e9253eb7785d9eabc7c302140c4c3b074f38e0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Oct 28 19:34:50 2020 +0100
+
+    local global stagedone file 3
+
+commit a7979eb338b664fe40a74bfdab869539de7527f6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Oct 28 17:57:37 2020 +0100
+
+    local global stagedone file 2
+
+commit 74bb018a2d4420022fad130fac6cd2c65a1bd5cc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Oct 28 17:53:55 2020 +0100
+
+    local global stagedone file
+
+commit 5f299250f7d7f4b15e44f006276a01da35172997
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Oct 26 20:53:32 2020 +0100
+
+    local ABC outputs for R modified 3
+
+commit 881510c9a68427490778566fc80449a41f1e774c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Oct 26 20:22:54 2020 +0100
+
+    local ABC outputs for R modified 2
+
+commit 202ecd2d2fe26f9017d03723ac04fecfe9de62c5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Oct 26 18:47:54 2020 +0100
+
+    local ABC outputs for R modified
+
+commit 6fec7331cf50520492cb7b27df58a98d7a027a2f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 17:14:43 2020 +0100
+
+    local ABC input file added to output 2
+
+commit 063e3924f7b835323cdac0538680d61e79909dd5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 14:37:51 2020 +0100
+
+    local outputs fixes 4
+
+commit 51e51731f908cea95aecf083d4a2d8685962b43a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 14:21:58 2020 +0100
+
+    local outputs fixes 3
+
+commit 109d61626f1ac0eeff30f8c4031ccf28089c181b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 13:29:19 2020 +0100
+
+    local outputs fixes 2
+
+commit ee8de4dd4c9a257f54536c5fbb36d84ea48fe4ac
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 12:48:26 2020 +0100
+
+    local outputs fixes
+
+commit 6ef3a587ce65fcd597bddc2ee996410e7781f915
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Oct 25 10:31:35 2020 +0100
+
+    local ABC input file added to output file
+
+commit c13906a8b48a8f4170fcd84a7903ddfcd3033e09
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 17:21:49 2020 +0200
+
+    new cystihumans fixes local 3
+
+commit 9b62425e4cd95fdebf3ff24c4d26692fd79b0612
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 13:49:37 2020 +0200
+
+    new cystihumans fixes local 2
+
+commit d621cd2454908417d20dc6b8ef79ba63d9faeceb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 13:26:03 2020 +0200
+
+    new cystihumans fixes local
+
+commit a1dc3c6846477a200bf9965b5e3eaa29f20d01cc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 10:43:05 2020 +0200
+
+    local abc params fix 3
+
+commit fc2b84960db40cc276a43663d9a676d232aeede2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 10:27:20 2020 +0200
+
+    local abc params fix 2
+
+commit 0898800ec66a892deb7ff8c384168ce7cce50906
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 20 10:26:21 2020 +0200
+
+    local abc params fix
+
+commit 8754b1a484ec0b28230438892043bb2b81368038
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Oct 19 00:02:27 2020 +0200
+
+    local cystihumans statistics
+
+commit cc7c74251769e66a987641750f009a1423f7e55a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 13 17:39:57 2020 +0200
+
+    local cystihuman demography 2
+
+commit 73b81224afc62ca0e2ec64bfc45f58e1b3c466f9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 13 17:11:14 2020 +0200
+
+    local cystihuman demography 1
+
+commit 9988ee01d0e10aa59994f60224594557ce2616fa
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 13 16:34:01 2020 +0200
+
+    demo cystihumans local
+
+commit f694a0435f5b069a134756e7b3bfd1a5e8d2d88b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 6 10:08:00 2020 +0200
+
+    local readSerology stuff 2
+
+commit 89e3a4b28fcb4ee4589ed86b48e14fc5c3af526c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Oct 6 09:43:10 2020 +0200
+
+    local readSerology stuff
+
+commit 735679a7c6970310a42bfb318b78a4fe86bc03e7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Sep 26 11:01:11 2020 +0200
+
+    ABC R first local
+
+commit 9e8a5dd51dfe07b578d5bc02afc95d6b7ffa9398
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 21 11:19:56 2020 +0200
+
+    stage done local 2
+
+commit bc54e4c345f71e1d98a18cd133b7433a4e26cdbc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Sep 21 10:09:23 2020 +0200
+
+    stage done local
+
+commit 385e76daa67c96a5d51da0883873ee1be1ce3ca9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 18 13:53:38 2020 +0200
+
+    local ABC runIndex fix
+
+commit 51463b60cd8f60541c48434b217326d7e751c2d1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 18 09:40:44 2020 +0200
+
+    local abc fixes
+
+commit f48e8c211a5789925dad69a5aa0a6438504d58cd
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 17 21:45:39 2020 +0200
+
+    local loop abc fixes
+
+commit 7a07897426ace5d91bf59028f622a665b287447c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Sep 16 20:28:38 2020 +0200
+
+    local local params fiz
+
+commit 9572261b4310ef12d187b4d632e335b1f851568f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 15 09:30:55 2020 +0200
+
+    another fix rundone local
+
+commit a822c379241f5f67b34582c5f8bf26e236db6556
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 10 19:54:41 2020 +0200
+
+    abc fixes local
+
+commit f05631b0cfdc7c1e76749ca629745df700f24692
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 4 17:31:42 2020 +0200
+
+    box after the first implementation of cystihumans 2
+
+commit 333455469f09ff67d524ed7e1c9f44be7ae10bd9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 4 15:03:02 2020 +0200
+
+    local cystiHumans 2
+
+commit 7a10997747f101b8be6551035ab1fb535ea33417
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 4 14:46:19 2020 +0200
+
+    cystiHumans first complete local
+
+commit c503e8f1767e2b40a40394796565e46eb06e29b5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Sep 4 12:42:22 2020 +0200
+
+    pop weight local
+
+commit 0b29a543d3e4b0cd8ecb3ece2efedf502422052b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Sep 3 09:16:10 2020 +0200
+
+    local cal with adherecne to latrine
+
+commit 00114da82a8ce1173e817681d2ecfdc18119dcf0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Sep 2 15:05:34 2020 +0200
+
+    cysti Humans second implementation stage
+
+commit 49e50c006dabd49f83e9ed2cc15c4812ca813f9f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 1 14:48:12 2020 +0200
+
+    local fixed rejections 3
+
+commit e7b9b1675acf6cbe4e40dad88ff18543fff71b11
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 1 14:00:55 2020 +0200
+
+    local fixed rejections 2
+
+commit 07e28a70e11adb929ab5d60b8d4b82bc47d4aefc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Sep 1 12:46:14 2020 +0200
+
+    local fixed rejections
+
+commit 5a1881f30d23fbb15f91c983f59e3d060382b2a2
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Aug 31 12:46:29 2020 -0400
+
+    remote adding ana files
+
+commit 1c5b29ab97b4c8d4d9d14e2c30f23142dfc2f690
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Aug 31 18:13:46 2020 +0200
+
+    read run done
+
+commit 8a53cb8863ee491ed024b8d432fd09f7045b472e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 13:39:10 2020 +0200
+
+    read stage done file fix local
+
+commit dadfe524507358bf7b5a01b2d26aa4400598a1ad
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 02:29:17 2020 +0200
+
+    few local
+
+commit 9393214b72369dd9686b9f475a96d4cd22b2ef14
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 01:47:46 2020 +0200
+
+    local do analysis 5
+
+commit 6d744b2665acef5bf31fe3503c4382389f8e3ed4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 01:09:40 2020 +0200
+
+    local do analysis 4
+
+commit 842e0992542437d400ce8d5bb1e3af15c31c5e6e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 00:54:01 2020 +0200
+
+    local do analysis 3
+
+commit f9c3b26c1843a1ebeebc6b28f4e5ce0bcb21dc25
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 00:51:55 2020 +0200
+
+    local do analysis 2
+
+commit 450116f17e7cf6f0c9e1e4fbd8498677be0e1312
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Aug 27 00:47:26 2020 +0200
+
+    local do analysis
+
+commit 8b04aa34005d9a416b0ac1df61461518ac635d04
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Aug 26 11:45:09 2020 +0200
+
+    local second cystiHumans commit 3
+
+commit c338347a7c33b9fee3d089ddc9c362037027bf75
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Aug 26 11:44:35 2020 +0200
+
+    local second cystiHumans commit
+
+commit 182e43f54f2a0f829735f0c20eb79ea1a998706f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Aug 26 11:38:25 2020 +0200
+
+    local first cystiHuman implementation stage up to tau1
+
+commit 8bc0470867b8061a0f19499911f5e0d8a0218d13
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 25 13:10:36 2020 +0200
+
+    local after de-identification
+
+commit 376d6c934b9f421360dce61c006bc9bb15576702
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Aug 23 19:03:03 2020 +0200
+
+    local after 566 analyss file 3
+
+commit 8a54e88fddccac9ceedace49aa2991162682df5c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Aug 23 19:00:09 2020 +0200
+
+    local after 566 analyss file 2
+
+commit 00105acba03206bc1d5ae12105d6513e391b745f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Aug 23 18:55:39 2020 +0200
+
+    local after 566 analyss file
+
+commit 397f8450f197bfeedc15ba7d1895c73b8eacc1f8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Aug 23 18:29:50 2020 +0200
+
+    questo funziona dopo 566
+
+commit 26b9dffae567d17ac228a5865b7c55976a920447
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Sat Aug 22 15:06:15 2020 +0200
+
+    local 566 problem 4
+
+commit 898dfbdb8fa8d92d3d92559bfb6e9d92d93eacac
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Sat Aug 22 14:53:13 2020 +0200
+
+    local 566 problem 2
+
+commit 9b824d3c1ff75292426377f7e18670f618d62217
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Sat Aug 22 14:49:41 2020 +0200
+
+    local fixed bug 566 cysts entire dataset prev
+
+commit 53dce8b37318262f057245ef5a03cf7abab3e0a5
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Aug 18 22:04:25 2020 +0200
+
+    necro per village local
+
+commit 5fde2d09656598aefd98625ab1d423c286bc60c8
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Sat Aug 15 09:37:19 2020 +0200
+
+    new histo necro norm local
+
+commit d2db215fea9af052deef15ef7d57026678e1bb02
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Aug 11 06:07:13 2020 +0200
+
+    tapeworm life span stranger travelers local 2
+
+commit a1b2118df97698c9743c55f2663821762b29ab97
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Aug 11 06:03:44 2020 +0200
+
+    tapeworm life span stranger travelers
+
+commit 8b366acc6e704a967038aa2cb1ac05fb9764158c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Aug 4 01:17:26 2020 +0200
+
+    few local
+
+commit 9314871c4b67da721da319414ea6dcd41d1d74f4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Aug 3 15:12:05 2020 +0200
+
+    start 566 local
+
+commit a6ee12d1d82eadb4468256b63cc4105f5b5de569
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Aug 2 14:39:15 2020 +0200
+
+    local paras fixes local
+
+commit a37be293a7a23f8f4227f1f30d051968c640b0dc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Aug 1 09:38:28 2020 +0200
+
+    start 566 local
+
+commit afc2660045d60c7b233811827ff0740da72365dc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 31 15:42:44 2020 +0200
+
+    range local
+
+commit 6285f68e869a6fda1ab647c4d51e77e28831792b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 31 14:52:16 2020 +0200
+
+    add analysis local
+
+commit 8aa47d1a9e97d40f0ceb80c77ac9d9ecb2a5c6f9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 31 10:23:14 2020 +0200
+
+    stage done shit fixes 3
+
+commit d2bdc44dc406593e430b72deffea54226bb308ec
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 31 10:14:01 2020 +0200
+
+    stage done shit fixes 2
+
+commit 5c48abd2c8423bbc1ec5074df353bd91bef9e74e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 30 12:39:10 2020 +0200
+
+    stage done shit fixes
+
+commit ae6a63a7bdd6994609b6afb81b5e2fe87213e250
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jul 28 23:16:11 2020 +0200
+
+    sensi fixes local 2
+
+commit 0da2e6c4bb51432017ba1ded876f00b5f620ee32
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jul 28 23:01:54 2020 +0200
+
+    sensi fixes local
+
+commit 54e05d9ea80a34ffed8c401e43c0f61679306e53
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jul 28 07:42:08 2020 +0200
+
+    runDone fix local
+
+commit 3c8b6c53ce327669b44cf2a88f26a1d41ba1bffe
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 27 15:44:38 2020 +0200
+
+    sensitivity index local 2
+
+commit bb375c06f46c663fd6df4f62e6359229814ed194
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 27 15:40:30 2020 +0200
+
+    sensitivity index local
+
+commit d43ac179dd08256b1059ec16fb8ff6e9124f0b33
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 27 15:15:50 2020 +0200
+
+    parameter name changes local
+
+commit f75a02aad4167333f1fc57f5e26f64b55dee750b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 24 16:25:44 2020 +0200
+
+    last immunity upgrades local
+
+commit 2b8e11a587443f27f3a3632fb8d29d8a0edc1ea4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 23 15:34:47 2020 +0200
+
+    numruns local
+
+commit 41ef1b3f707cb62e9e94efec63b45483592a5bae
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 23 14:49:10 2020 +0200
+
+    lloca trying to create extended wauit to 60000 ms
+
+commit 74fe554c51db60879b9b7d435dd92e4e1916ccfc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 23 12:51:48 2020 +0200
+
+    test local new 64 cygwin
+
+commit c9e5a91d7af8b95fa3d14d4144d033849fd8c597
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 22 16:56:52 2020 +0200
+
+    sensitivity analysis nes local 3
+
+commit a6df5574d7a970e4721170ef5ca1fa605f62aab7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 22 15:27:57 2020 +0200
+
+    sensitivity analysis nes local 2
+
+commit 95db9656692aa619c4e616de19306d6c12eb2a99
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 22 14:58:16 2020 +0200
+
+    sensitivity analysis nes local
+
+commit 2b9568dbcc62db38c3a281446d209dca61749090
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 20 19:03:38 2020 +0200
+
+    num cyst from proglott and eggs and last immunity update local
+
+commit 51d73e5e858f6955b5f22e58d5d8bf228a8c188c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jul 19 22:42:48 2020 +0200
+
+    doanalysis fixes local
+
+commit 889419fc236204c507334878884ceb503e8297f4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 17 15:34:04 2020 +0200
+
+    new immunity immature local
+
+commit a6feb80e993284d5dd8f94b778de1c64b0ea190f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 16 22:03:33 2020 +0200
+
+    immunity fixes local
+
+commit 9094948500476e2840840b5e34dae66c6620b4f9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 16 12:12:51 2020 +0200
+
+    doanalysis normalization corrected local
+
+commit f0eb9a55b5fd055c40cdadcefc0a12ddf0502bf0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 16 11:08:39 2020 +0200
+
+    prior error fixed local
+
+commit f8953dc8b7a59a26e51f7a7f5343d8a06b7473ad
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jul 16 01:47:45 2020 +0200
+
+    gestation periodicity fixed local
+
+commit 17b0cec223c91e48212e097ca3fc025d7039ac5b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jul 14 16:10:47 2020 +0200
+
+    adherence fixed local
+
+commit 7aa97daa9a1eea831810f1239939804921b912a6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jul 14 07:48:41 2020 +0200
+
+    hardcoded abc params fixed local 3
+
+commit 5b47c057c082ff6d044822cc9e99ff453792e58c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 13 17:05:05 2020 +0200
+
+    hardcoded abc params fixed local 2
+
+commit d99f5c2dfcdbc58b673364e211d97de04107a3db
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 13 16:58:53 2020 +0200
+
+    hardcoded abc params fixed local
+
+commit 97284940d083922d8b1df9921a09ad549e794ffe
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jul 12 13:20:03 2020 +0200
+
+    runsdone runsIndex fix local 2
+
+commit 2fc30351bf01b17d9f2c6b67738a209309016dce
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jul 12 12:42:36 2020 +0200
+
+    runsdone runsIndex fix local
+
+commit 8e9f33c6053e351a336d588dd59686fd397e739e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 10 14:17:53 2020 +0200
+
+    histo fixes local
+
+commit 72cfb22f7243e08a161c6ff5d32c46d66c7fa2f2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jul 10 14:07:55 2020 +0200
+
+    histo fixes local
+
+commit 92771c42347e4de28a48c7af068ebcfa73fc882a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jul 8 23:46:03 2020 +0200
+
+    local 4 changes
+
+commit f8ab37fabed3662cb5f844f415d13830ba579549
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 6 12:29:14 2020 +0200
+
+    last prior 515 local 2
+
+commit 0e06ef1670c33dd6b2fe6a00b956f024823e5a5c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jul 6 12:26:07 2020 +0200
+
+    last prior 515 local
+
+commit 16a3646b9ea3dcec12dfa304b580e4d1b27586a2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jul 5 23:55:40 2020 +0200
+
+    local prior changes
+
+commit e6e911a55a2784fea0c22d0fe8349bbebc5cc432
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Fri Jul 3 11:41:17 2020 +0200
+
+    prior local change
+
+commit fc5d8255a92a921f21ce575dbbf13ee90b73a107
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Thu Jul 2 17:27:48 2020 +0200
+
+    prior fix local
+
+commit 627e4dc0ae2e39bb65b70a7348b6815abeccf9b1
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Wed Jul 1 23:01:38 2020 +0200
+
+    addnecrodist local
+
+commit 4ccd2699c8d38e4fac80f58aaaf5bc6631527913
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Wed Jul 1 18:12:55 2020 +0200
+
+    pregnacion fix loca
+
+commit 69d09b6265bca0b97849230015a24afee8a6f0c7
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Jul 1 08:51:58 2020 -0400
+
+    remote run id fix
+
+commit acaf2667f68e38743acf56c3b148cb47586c63b3
+Merge: edc1d41 58563cc
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 30 11:46:37 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 58563cc580dd3ca5e1d0752f67db93eeb1f0e995
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Jun 30 17:45:39 2020 +0200
+
+    local int num of cysts 2
+
+commit e7d7f7c6155a1ed270d39aaadb130a4f35815747
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Jun 30 17:40:56 2020 +0200
+
+    local int num of cysts
+
+commit edc1d4190a0a11dfd8ea19a7b80ca5ff3fdba423
+Merge: b4f7952 859f959
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 30 04:48:57 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 859f959144b468cc4b36d086f56a6bc8895fea6a
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Jun 30 10:47:56 2020 +0200
+
+    new prior local
+
+commit b4f795214c0d00033c0854f8141f29097fc42c74
+Merge: d9d6cf1 694c20d
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 30 04:41:38 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 694c20da1fcd91d3eff4563a1ecab2f34e32ff25
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Tue Jun 30 10:38:55 2020 +0200
+
+    SD fixes local
+
+commit d9d6cf1f3c003323fc6cc319491c0f340fc58ad6
+Merge: 0c6006c c49bb1c
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 28 20:36:15 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit c49bb1cdb7f7f7e480a168bb9f7c29a5d9e827ec
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Jun 29 02:35:39 2020 +0200
+
+    no eggs local 2
+
+commit 0c6006c718f307b01ad66d6a8b4045a958c86900
+Merge: 44db835 2e9c6ce
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 28 20:28:41 2020 -0400
+
+    ABBCC remote 2
+
+commit 44db83523f9617d50f60b003732a9704c9e8a719
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 28 20:28:00 2020 -0400
+
+    ABBCC remote
+
+commit 2e9c6ce7808106c7981a7cce3268ebe0424cbe55
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Mon Jun 29 02:27:00 2020 +0200
+
+    no eggs local
+
+commit 22eed8ae6d4146e6c82592ef784877a0b66e4492
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 28 08:37:34 2020 -0400
+
+    necro sorted remote
+
+commit 12bdd2a10c771dfcb4f3ed033535fd10cd715d2e
+Author: oflixs <oflixs@gmail.com>
+Date:   Sat Jun 27 11:53:04 2020 -0400
+
+    remote cluster fixes
+
+commit 18e9fac9b803c4b9cda2d7167d4bcf0d8cf8e637
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Fri Jun 26 13:04:33 2020 +0200
+
+    prior change local
+
+commit 556c831441b0010574d9fbe5ae78135c0aeb67a9
+Merge: 7c0a90c b59c172
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Fri Jun 26 12:59:00 2020 +0200
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 7c0a90c5c0cc85d8d9c3c89e85105283916af46b
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Fri Jun 26 12:58:47 2020 +0200
+
+    params chane local
+
+commit b59c1728b341955c771f0fe6fa039a47cb545f63
+Author: oflixs <oflixs@gmail.com>
+Date:   Fri Jun 26 06:58:03 2020 -0400
+
+    norm terms changed now absolute values remote
+
+commit cda15d10ee0ee6911a8a198627879a13cca427c1
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Wed Jun 24 02:17:15 2020 -0500
+
+    seth bug foun in pigsgenerator assign cysts
+
+commit cc1c2753f8c650bb1379963f8fb0a9befc741429
+Merge: 6837bc4 cda15d1
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 23 21:20:06 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 6837bc4898784c770cdd344358aa97f0c60be53d
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 23 21:19:55 2020 -0400
+
+    remote commit generic
+
+commit 295902296d9718b5466a580e3db0f70802650367
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jun 19 12:09:05 2020 +0200
+
+    local histo prog fix 2
+
+commit ba72c9f62b04f743702f6b2e87e5c2c3444b0e1f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jun 19 12:05:32 2020 +0200
+
+    histo obse fix local
+
+commit 1f8d1f134371d10f189e65fef35de76a93eac2bf
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jun 18 23:46:52 2020 +0200
+
+    last fixs before puglia local
+
+commit 8cc7a3e9d19e512a2c4f59bdca502818ebce87ca
+Merge: fbce92c 097d3e4
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Jun 17 17:32:39 2020 -0400
+
+    remote import second commit
+
+commit fbce92c00333b60351cd76d4db711484880a9b5c
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Jun 17 17:27:06 2020 -0400
+
+    remote last comm before import change
+
+commit 097d3e48d7fe195289fe9cdde610278e6d1ae44c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 17 23:24:20 2020 +0200
+
+    local import increased
+
+commit 25470da451a5586af7e020a6900219271711b37d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 17 17:55:51 2020 +0200
+
+    to send to eloy local
+
+commit d8679ff29f80b776de082fb3f5e473efabb9d76e
+Merge: 497ba47 5193310
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 16 18:17:33 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 497ba473e38f0f17341f62ed525aa6acfb0cf39c
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 16 18:16:57 2020 -0400
+
+    wft remote 4
+
+commit 519331098990adfc845427a4f4403eef1d118bd4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 17 00:16:02 2020 +0200
+
+    wft local 1
+
+commit 347104e311b1f1f2b9c8ef1f45810107e8c421b3
+Merge: cfdfd75 1935b7d
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 16 17:52:14 2020 -0400
+
+    wft remote 3
+
+commit cfdfd75267cbc50ead6602acf30356674aa2e1f7
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 16 17:47:21 2020 -0400
+
+    wft remote 2
+
+commit 1935b7dd86de669fee39802d29f6cba99ef60d7e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jun 16 23:32:23 2020 +0200
+
+    lat fixs cysts input local
+
+commit 01c685a514db5cc231834766f52a8ba89c4c0132
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jun 14 18:21:16 2020 +0200
+
+    added breedingSow local
+
+commit 30a881cb31950fe373fee44e27acc8e3bf951bb4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jun 12 14:53:45 2020 +0200
+
+    fixed local gestation pop control
+
+commit 00263bc438c1aa2bcf1012df747b207830759978
+Merge: 0f0c670 42163ad
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jun 11 11:37:53 2020 +0200
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 0f0c6702f67ad8740eced0b7cc4cf4d2e0c473cd
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jun 11 11:37:37 2020 +0200
+
+    adjunst targets necro local
+
+commit 42163ad57f8849d5c8bf3a53f87d6909999f039c
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Jun 11 05:36:42 2020 -0400
+
+    new fixes necro remote
+
+commit 7c9bcf34f1c19b27401fb916d2e2a0a84ea67df3
+Merge: 161e900 4297421
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Jun 10 15:50:57 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 4297421d21ca48c089c36bf7cd76e0dd7ede50a9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 10 21:50:18 2020 +0200
+
+    last changes to necroscopy data local 2
+
+commit 161e9009aa75417213668572466a655029431c21
+Merge: a18dfe6 8d5bdf7
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Jun 10 15:26:15 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 8d5bdf72af3d93934e72aad5a5df53c175613079
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 10 21:19:59 2020 +0200
+
+    last changes to necroscopy data local
+
+commit 504bf1c2ee665bb348f576f54cb10716f13af81e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jun 10 16:30:00 2020 +0200
+
+    first version immunity and pregnancy pregnancy not owrking
+
+commit a18dfe64e8e9a46224064abd56242b3b6d9e1d60
+Merge: d75bace 678276f
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Jun 9 05:21:28 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 678276f07cc421663709f99399039419a1c0b318
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Jun 9 11:20:39 2020 +0200
+
+    fixe cysts calibration local
+
+commit d75bace58b88cef97b2a835b3108b0e2e89bbcd1
+Merge: e8fba77 e8b7553
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Jun 8 08:16:22 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit e8b755365b5775ee6b0183e3b5d955d2b9c1d662
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jun 8 14:15:53 2020 +0200
+
+    pig old local
+
+commit e8fba77af23a517f4e53d9dcf4b53c96577d1a1a
+Merge: 2a09124 5730bd0
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Jun 8 08:07:14 2020 -0400
+
+    stupid commit remote 2
+
+commit 2a09124b5617e0c0d9308650d845d85c7dd25ce2
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Jun 8 08:06:32 2020 -0400
+
+    stupid commit remote
+
+commit 5730bd0c9cf9cb8d2efb771077998b629697fccc
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jun 8 14:05:15 2020 +0200
+
+    fixed coreInput local
+
+commit 43aebc5860e3aed13f42ce23ca6806fd2ef03bb1
+Merge: 9dc860f 8bb0cdb
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Jun 8 07:16:18 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 8bb0cdb2aa39ce43b5529db5125217d7da174be4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jun 8 13:15:35 2020 +0200
+
+    core file canwrite local
+
+commit 9dc860f3a1fd1812ff2b0ea9119eb0a415ae138c
+Merge: 2003a85 3e3dc3b
+Author: oflixs <oflixs@gmail.com>
+Date:   Mon Jun 8 05:45:26 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 3e3dc3b30e35491baccf296632dfd152657e6a87
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Jun 8 11:44:54 2020 +0200
+
+    pippo local
+
+commit 2003a85862413c0df7660cf9ac3dc5d6014c4dfd
+Merge: 43c091b d4c9843
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 7 14:56:20 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit d4c984375be7a9f874f40732108304bba40a10be
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jun 7 20:55:32 2020 +0200
+
+    new necro adjusts local
+
+commit 9a49e65bf7c4b446561a23cd7e3dd65548418a16
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jun 7 20:33:00 2020 +0200
+
+    implementation histo necroscopy work in progress
+
+commit 43c091b7b86f3fd6df45d9c67c17d4907467d136
+Merge: 959d218 9790097
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 7 05:19:40 2020 -0400
+
+    all added remote speriamo bene 2
+
+commit 959d2182f0e2c0bad242020714834fbfe37b9ad6
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 7 05:14:24 2020 -0400
+
+    all added remote speriamo bene
+
+commit 9790097a218946a5b849286e2a14c041f3f6d06d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jun 7 11:12:11 2020 +0200
+
+    local add all speriamo bene
+
+commit 80c4e6cf2ac52ed60b6c38372574b1405af4c2d8
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Jun 7 04:49:29 2020 -0400
+
+    before TTEMP remote
+
+commit bbbf6cd17696fa35145205b570d3e83c83164c36
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Jun 7 09:32:48 2020 +0200
+
+    last TTEMP cysts implementation local
+
+commit e066e2ac0acef920f69e7d3f2097ab3df9959070
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Jun 5 19:50:26 2020 +0200
+
+    implementation histo necroscopy work in progress
+
+commit 32ef5a79414c4eb31bdaa373ea3d6cec4442c0db
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 25 17:48:51 2020 +0200
+
+    local cysti to send cluster 2
+
+commit ad539e9d0c30fd5719a8213527cfc0618e59ace8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 25 17:38:33 2020 +0200
+
+    cysts revisited local 1
+
+commit 2c5ea35e2cb9c333d99123f3b0e4300afbb1b451
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 19 16:35:41 2020 +0200
+
+    second round Cysts CS local
+
+commit 546bfe42cce4b0f726a4eb052a788f278433f16f
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 19 12:37:57 2020 +0200
+
+    local runIndex fix
+
+commit 994a48e2d046ca9626fd07c7a9b4e564a11137a9
+Merge: 8aa7278 6b41aeb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 19 11:26:49 2020 +0200
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 8aa72780afc6fb8cd062b5c138ea16e74cd996a6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue May 19 11:26:41 2020 +0200
+
+    local after cysti first rujn
+
+commit 6b41aebfeb4f887cb808617b7df7a903b8f8ae9c
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue May 19 05:26:03 2020 -0400
+
+    remote after first cysts run
+
+commit d9cad371c14dd89cf173f12939a40bc9f97cc611
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 18 11:18:00 2020 +0200
+
+    local cysti to send cluster
+
+commit 9c9ceaf84593e128e647b5e9a7dec51f19321a2d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun May 17 23:26:50 2020 +0200
+
+    new cysts CystiAgents first local
+
+commit 6850002e2bc524a81ced6b049995622aa2b3efb2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu May 14 12:53:40 2020 +0200
+
+    local new 582 2
+
+commit f99562c9e40254b1e3a42a37da3da45bb613a960
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu May 14 12:23:23 2020 +0200
+
+    local new 582
+
+commit 38848b18b30698a5449a7d541d3cc1d9047ea49c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu May 14 08:57:08 2020 +0200
+
+    local interv fixs
+
+commit 4025826c259bfaf90fae8bbe863e70c0f0121ded
+Merge: d09c4b0 81c0130
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 13 08:48:27 2020 +0200
+
+    local first interventions completed 12
+
+commit d09c4b0b25167ad32cb6b4a17df63b2c46be389e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 13 08:44:56 2020 +0200
+
+    local first interventions completed
+
+commit 81c01309a84e646d0032ad7c217974eb4d82ed89
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Tue May 12 23:43:09 2020 -0700
+
+    sethPC run errors patches
+
+commit c7d854417cda207b92f281525c615ef5a5511365
+Merge: 70e2f4b ff5f5f5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 11 09:56:30 2020 +0200
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 70e2f4b64b2b5c3a351a18ab9d8133880e816b54
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon May 11 09:56:20 2020 +0200
+
+    local to pull
+
+commit ff5f5f5825751a90a026b15560e5fd3bacb7b187
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Mon May 11 00:53:44 2020 -0700
+
+    sethPC ABC doAna fix
+
+commit 418137b581dfd3524c7d4ccc75a032f59835a098
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun May 10 16:58:26 2020 +0200
+
+    abc adjustemt local
+
+commit eb40df75174443f00d3d7eb312577ca4720cb484
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat May 9 19:24:24 2020 +0200
+
+    local inputdata interventions added
+
+commit b262d5592849e7a3baa549313ef517ee9da9cf1d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat May 9 13:23:44 2020 +0200
+
+    poiutils local
+
+commit c1f08b4b9fe492eb4aefb86dcd11625dba05cc31
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed May 6 11:15:33 2020 +0200
+
+    before implementign treatmets
+
+commit 384e312bc495ac4c4ed8f9fcfbd65badc78466ca
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 29 16:18:15 2020 +0200
+
+    new in and out home range exposure 2
+
+commit 5dbaf68878ff638da4e426f1d72f8efb97e13be0
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 29 15:16:22 2020 +0200
+
+    new in and out home range exposure
+
+commit 525051aa69d60718a7b43bfb5ff80d3b3c8dcd15
+Merge: 329bcfa 7581e79
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 28 09:06:04 2020 +0200
+
+    local new out of home range infection in progress 2
+
+commit 329bcfa7fc19263f0fc1aad9b5d8d0970ab3bbb2
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 28 09:04:23 2020 +0200
+
+    local new out of home range infection in progress
+
+commit 7581e7979c9c6061b9297fd6cf4b78e6baeb650b
+Merge: 3cec55b 99a9fdc
+Author: oflixs <oflixs@gmail.com>
+Date:   Tue Apr 28 03:03:07 2020 -0400
+
+    remote some adjustements
+
+commit 3cec55b0b2f638c2e7d051525b877d6e3e288b9c
+Author: oflixs <oflixs@gmail.com>
+Date:   Fri Apr 24 09:03:29 2020 -0400
+
+    local to launch 581
+
+commit 99a9fdcb4dfaf9112be1a313534c607d469cedfb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Apr 24 15:01:58 2020 +0200
+
+    local to lanunch 581
+
+commit b477cd891d3f8283de97b2faec0b1b9de0c110ea
+Merge: 55cfe53 92724ab
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Apr 23 08:46:17 2020 -0400
+
+    remote before calibrate 581 2
+
+commit 55cfe531799bbe12f9dc8b020c8ab88e2d56ec3b
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Apr 23 08:44:45 2020 -0400
+
+    remote before calibrate 581
+
+commit 92724ab789c440d0ecabb9542c67f3df9732a6fe
+Merge: c4c917b 776e49a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Apr 23 14:43:43 2020 +0200
+
+    local to calibrate 581 2
+
+commit c4c917bff56edb55daa341f48a58e8a433507dfb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Apr 23 14:42:23 2020 +0200
+
+    local to calibrate 581
+
+commit 776e49a19c30b12b0a60cf1718cfb0711048dc12
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 17:05:22 2020 -0400
+
+    write convergence remote
+
+commit b00d1d8bd661ac156c32b73bb87352fb8eec9cd0
+Merge: edd4817 801b7bb
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 17:02:47 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 801b7bbf78dfbf2c1c30d01392055f6bf5d5fa5e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 22 23:01:29 2020 +0200
+
+    local read DIA fixed
+
+commit edd48177132121ef924cfaa6899db7018ee3a911
+Merge: 73db126 4f70f02
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 16:02:23 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 73db126b1271d2b6c5a80859923e0c9edd8704aa
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 16:02:04 2020 -0400
+
+    remote output adjusted2
+
+commit 4f70f0280ee8b5c6c7226ab2197e9bc5519e3f8c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 22 22:01:16 2020 +0200
+
+    local output adjusted2
+
+commit d440bcc12b6d7ecf079dbb00ccd31e0a8109570c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 22 21:39:21 2020 +0200
+
+    local output adjusted
+
+commit 32bffad7d2c20466afba33f68ab314f23e29f67c
+Merge: b3cf917 b23be4a
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 10:50:58 2020 -0400
+
+    remote sp commits 2
+
+commit b3cf917318ce5cab7791dafe9104b20ebb992b15
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 22 10:44:50 2020 -0400
+
+    remote spourious changes
+
+commit b23be4afde6e9b639988b2162f22391752642a9c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 22 16:43:49 2020 +0200
+
+    local spourious changes
+
+commit bba32f66e80eadab44bbb996265572bafa496e4c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sun Apr 19 12:38:58 2020 +0200
+
+    local fixed abnomalous stops in remote
+
+commit 883df532ffc18a8d1cd61d49944af5f00c95860d
+Merge: 85a3347 75d7b5d
+Author: oflixs <oflixs@gmail.com>
+Date:   Sun Apr 19 04:37:31 2020 -0400
+
+    exit removed remote
+
+commit 85a3347fc005dc572792f11a6e79642617ef1b53
+Author: oflixs <oflixs@gmail.com>
+Date:   Sat Apr 18 10:50:13 2020 -0400
+
+    remote small chnages
+
+commit 75d7b5d662f8ffdce6582565b6dac7a8c103ffe6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Sat Apr 18 16:42:46 2020 +0200
+
+    local spurious commit
+
+commit b111249619f93d85d5ab534029c0795c7cbce706
+Author: oflixs <oflixs@gmail.com>
+Date:   Fri Apr 17 10:01:50 2020 -0400
+
+    remote NaN donalysis problem
+
+commit 913bab717b8df70aad2649ebf8e99a12c48f9480
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Apr 17 11:45:36 2020 +0200
+
+    runs id fixed local
+
+commit 241b2219e822b87335e805eedf4a18fe88a511fa
+Author: oflixs <oflixs@gmail.com>
+Date:   Fri Apr 17 03:57:31 2020 -0400
+
+    remote small changes
+
+commit aa02b5046a50f27fef715423d317d7f84674382a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Apr 17 09:47:59 2020 +0200
+
+    local cal parameter change2
+
+commit 249f14304b4c9d22b193f027e881e9a604409ea3
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Apr 17 09:33:32 2020 +0200
+
+    last changes pork distribution local
+
+commit b6ec31691c4976be7db78bb12de36b07037cbf1c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Apr 16 08:10:33 2020 +0200
+
+    local cal parameter change
+
+commit f61ac930af7a190021dd4596831b209b8f4168d8
+Author: oflixs <oflixs@gmail.com>
+Date:   Thu Apr 16 02:07:42 2020 -0400
+
+    last adjusts remote
+
+commit 7a8321e6fd47c35fd39156f73533b7cb8282d3e1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Apr 16 07:52:14 2020 +0200
+
+    local outputs removed
+
+commit 923d6d967d4ec2371d89f32bd2f3f9c519f77106
+Merge: 8e80c82 82673f9
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 15 16:37:07 2020 -0400
+
+    ancora cambi in remoto di ABCCalibrationControl che non ho fatto2
+
+commit 8e80c824f8784cc80475e178ae4997b8108b6303
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 15 16:36:13 2020 -0400
+
+    ancora cambi in remoto di ABCCalibrationControl che non ho fatto
+
+commit 82673f9846973b3a0affc7dbafe1bb40fd881634
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 15 22:33:06 2020 +0200
+
+    launch cluster local
+
+commit 3dfea71157a5c37faf231e428cbffb181fb3601b
+Merge: b9c2434 484156f
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 15 14:18:41 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit b9c2434bff836a6b66f2491f76d46c5a88c4463b
+Merge: c199876 80337b0
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 15 14:18:31 2020 -0400
+
+    remote changes ABC2
+
+commit 484156f78143576ef8ceec25e5bc323687060827
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 15 20:18:09 2020 +0200
+
+    local last fixs ABC2
+
+commit c1998762c95801a68991e5ed2238283469bed495
+Author: oflixs <oflixs@gmail.com>
+Date:   Wed Apr 15 14:15:52 2020 -0400
+
+    remote changes ABC
+
+commit 80337b0e3ffc9ae4f8fe5a168dc5cfa87b942298
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 15 19:59:40 2020 +0200
+
+    local last fixs ABC
+
+commit 339e139c8f8a34ced22a2055f8faf9374796ecbe
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 15 16:05:56 2020 +0200
+
+    local readObject fixed
+
+commit 4d00ed8cb268ec4d2e58435ce1ac19d16310d1c5
+Author: Francesco Pizzitutti <fp36@dcc-slogin-01.oit.duke.edu>
+Date:   Wed Apr 15 09:13:56 2020 -0400
+
+    remote all fixes including compile and linux - -windoes
+
+commit bcf9b096fa3eecfb6cda4d04a4275862729eb2bf
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Apr 15 14:54:37 2020 +0200
+
+    local allJar addes
+
+commit beafcb568740b2491dba906b915e96ecb05e0a68
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 14 19:49:36 2020 +0200
+
+    template runners file add local
+
+commit ca8edeaa39bb8159bb50054305ab3ef03d0910f5
+Merge: 9170082 f3ee62c
+Author: Francesco Pizzitutti <fp36@dcc-slogin-01.oit.duke.edu>
+Date:   Tue Apr 14 09:47:00 2020 -0400
+
+    cluster compile files added
+
+commit f3ee62c242c34a9c1bf7f35c03bf968beab90ed8
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 14 14:15:23 2020 +0200
+
+    adjustement stupid local
+
+commit 917008288f212dbb8252462d969790ad1631352c
+Author: Francesco Pizzitutti <fp36@dcc-slogin-01.oit.duke.edu>
+Date:   Tue Apr 14 08:08:50 2020 -0400
+
+    first commit cluster
+
+commit f48c30330244d50c7ce4af69dcc1ea75b1e07c3b
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 14 09:52:37 2020 +0200
+
+    last adjustements for Duke cluster
+
+commit 10f925213f9f30d0e3f1364b2e0977c53b7350ea
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 7 09:33:50 2020 +0200
+
+    new processes of infection and survey pop for gates 2
+
+commit 10b8c0aa9415e0dd43fe1ccf56a55dd5cdc28751
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Apr 7 09:29:04 2020 +0200
+
+    new processes of infection and survey pop for gates
+
+commit 42f25661eabe84f2bc1a21973a4a8fea2212fa12
+Author: U-OHSUM01\pizzitut <pizzitut@RNB02690.ohsum01.ohsu.edu>
+Date:   Fri Mar 20 09:21:03 2020 -0500
+
+    three parms ph2h = pl2h
+
+commit ec64539968525fc450e97588e505c929e621bb15
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Mar 16 12:48:06 2020 +0100
+
+    everuthing up to three parameters model tests 2
+
+commit 2e3c63c1a83e2662825fa8e501063d4f3158a9c6
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Mar 16 11:11:22 2020 +0100
+
+    everuthing up to three parameters model tests
+
+commit 3d83796d889b15fea2c8cd760b1e615c59122c49
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Mar 3 15:49:37 2020 +0100
+
+    implemented and tested single runs in parallel 3
+
+commit baf43cdb9bf0ed9e44f4ba8ca525a2d9b071e48c
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Mar 3 13:40:53 2020 +0100
+
+    implemented and tested single runs in parallel 2
+
+commit 8291c8e1cfb8379a4b0fa6ff33e21cfb73f0860d
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Mar 3 13:40:36 2020 +0100
+
+    implemented and tested single runs in parallel
+
+commit 15e88c7ac55dc5e54b970700f48132af0992062e
+Merge: e3928ea d78143e
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Thu Feb 27 23:12:36 2020 -0800
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit e3928ea3e4361800d4685d9a9df2f4b828c1031f
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Thu Feb 27 23:10:54 2020 -0800
+
+    from oregon
+
+commit d78143e104c530bfac0e31bfa90691b54bbbd326
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Feb 28 08:04:39 2020 +0100
+
+    to launch to OHSU PC 27022020 3
+
+commit 790d9199ac092656e5f3e86bea713f3ea348d07e
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Feb 27 19:18:41 2020 +0100
+
+    to launch to OHSU PC 27022020
+
+commit fdfbfb625dd1034d341c767082c871c7874dffb8
+Merge: 064be81 5bed3d1
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Thu Feb 27 08:39:23 2020 -0800
+
+    Merge branch 'master' of https://bitbucket.org/Oflixs/cystiagents
+
+commit 064be81415391a0419d420a393cd3390e7327f60
+Author: U-OHSUM01\pizzitut <pizzitut@RWS03027.ohsum01.ohsu.edu>
+Date:   Thu Feb 27 08:38:53 2020 -0800
+
+    remote ohsu commit
+
+commit 5bed3d1af0b0d47877635a505daeb731566c6dff
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Feb 27 17:36:58 2020 +0100
+
+    extension-outputs added
+
+commit 126d5d1b0e6ca8839d50dcdbe3cde63ef836a474
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Feb 27 15:15:52 2020 +0100
+
+    chages for OHSU PC
+
+commit eb4d3b8556d94ba3219103bbc0f338306982c342
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Feb 26 11:57:46 2020 +0100
+
+    adde some directories to trasnfert to ohsu
+
+commit 768fa7b7a993c88ae898f49d2d5b5bc602a90475
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Feb 26 11:46:35 2020 +0100
+
+    oflixs files
+
+commit c29ab9c819ed94a7c05c39ee81b9effcfa9ae0a1
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Feb 26 10:37:35 2020 +0100
+
+    last ABC with sobol 2
+
+commit 1eda18a7f3fd29b0a5a68c85f7ba6f64444e861a
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Feb 26 10:37:00 2020 +0100
+
+    last ABC with sobol
+
+commit d6e14632dc3d9aa58136add58d89b0fb9c37dee5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Feb 21 10:14:56 2020 +0100
+
+    ABC 2 stage done 2
+
+commit ffa024b22afc15861831343a855720a4b780e340
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Fri Feb 21 10:14:38 2020 +0100
+
+    ABC 2 stage done
+
+commit a0f27d492b3890cc5421c239316824b60590f6fe
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 17 09:21:39 2020 +0100
+
+    stage 1 abc completed 2
+
+commit 4791790aad9ad44d34023f329a56d5f2332c99a7
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 17 09:20:25 2020 +0100
+
+    stage 1 abc completed
+
+commit 555d53fdeae7c2091c150c548e9fec3c4f939db4
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Tue Feb 11 17:47:55 2020 +0100
+
+    outcomes pool now runs in parallel
+
+commit 5cafaf4707e97c871405c49d1f74c2b73617cba9
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Mon Feb 10 19:52:07 2020 +0100
+
+    should be the end of the not parallel ABC simple distances vollage based
+
+commit c01e17997f447c08da124d49c3535f89b0f0f1b5
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Thu Jan 9 15:49:05 2020 +0100
+
+    burnin added
+
+commit d81505be426791a1b930f62087fb5799b408cbcb
+Author: oflixs <francesco.pizzitutti@gmail.com>
+Date:   Wed Jan 8 18:48:39 2020 +0100
+
+    first commit after static fix and completed semitested outcomes pool analysis

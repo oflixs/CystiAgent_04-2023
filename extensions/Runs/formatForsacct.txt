@@ -1,0 +1,2 @@
+export SACCT_FORMAT="JobID%20,JobName,User,Partition,NodeList,Elapsed,CPUTime,State,ExitCode,MaxRSS,AllocTRES%32"
+sacct - j jobId

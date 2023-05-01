@@ -1,0 +1,143 @@
+##Test Run     ##############################################
+# Copyright 2019 by Francesco Pizzitutti
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+##############################################################
+#Input to TaeniaSim simulation 
+#Comment : lines starting with #, ignored lines with only whitespaces
+#Format: parameter whitespace value whitespace value ....
+# no '=' signs
+#Parameters names are case sensitive
+#Comments on paramenter in the lines above the paramenter 
+#definition
+##############################################################
+#The time step of this simulation is one week. Every Day is 
+#made by 24 hours, every week by 7 day = 168 hours
+#evey month by 30.41 days = 729.84 hours
+#every year by 12 month of 30.41 days = 8758.08 hours
+##############################################################
+#Number of steps (weeks) to be executed 
+numStep 1500
+#Number of burnin steps (during burnin no statistics are 
+#accumulated) 
+burninPeriod 1500
+#determines the frquency of output file writing
+nPrint 50
+##############################################################
+# Households paramenters ------------------------------------
+#Proportion of households with a latrine in GOOD condition that they ALWAYS use
+latrineUse 0.25
+#Log-mean of the radius of contamination around tapeworm carrier house (meters?)
+contRadiusMean 3.27
+#Log-SD of the radius of contamination around tapeworm carrier house (meters?)
+contRadiusSd 0.547
+
+# Humans     paramenters ------------------------------------
+#Proportion of households with a frequent traveler
+#orig CistySim:
+#travelerProp 0.423
+travelerProp 0.0
+#Frequency of trips among traveler households (departure for a trip every X weeks)
+travelFreq 8
+#Mean (ENTER DISTRIBUTION) duration of trips (in ? ask Ian)
+travelDuration 1.75
+#Incidence of taeniasis among humans traveling to other endemic areas
+travelIncidence 0.000231 
+
+# Pigs       paramenters ------------------------------------
+#Log-mean pig age at slaughter (in months)
+slaughterAgeMean 2.279
+#Log-SD of pig age at slaughter (in months)
+slaughterAgeSd 0.515
+#Corral-use (proportion ALWAYS) among pig-owners with corrals
+corralAlways 0.05
+#Corral-use (proportion SOMETIMES) among pig-owners with corrals
+corralSometimes 0.57
+#Proportion of pigs that are corraled among households household that SOMETIMES use corral
+propCorralSometimes 0.32
+#Home range radius (mean) (meters?)
+homeRangeMean 3.79
+#Home range radius (sd) (meters?)
+homeRangeSd 0.552
+#Proportion of pigs that are sold prior to slaughter
+pigsSold 0.514
+#Proportion of sold pigs that are exported
+pigsExported 0.731
+#Rate of import of pigs from external communities
+pigImportRate 0.00105
+#Prevalence of infection among pigs imported from external communities
+importPrev 0.134
+#Proportion of infected imported pigs that are lightly infected (compared to heavy)
+lightToHeavyProp 0.755
+#Proportion of pigs for which all meat consumed exclusively by pig-owner households
+hhOnlyPork 0.396
+#Proportion of pigs for which all meat was sold within the village (none consumed at home)
+soldPork 0.115
+#Number of households a pig is divided between when slaughtered for sale (NOT ACTIVE)
+sharedPorkDist 0
+#Proportion of shared pork that is consumed by the pig-owner's household
+sharedPorkHh 0.80
+
+# Tapeworms  paramenters ------------------------------------
+#Tapeworm infection duration (mean) (months? more probable in weeks)
+tnLifespanMean 104
+#Tapeworm infection duration (sd) (months? more probable in weeks)
+tnLifespanSd 50 
+#Tapeworm incubation time (months? more probable in weeks)
+tnIncubation 8
+#Environmental egg decay rate parameter (probably of decay per week)
+decayMean 0.125
+
+##############################################################
+# tuning parameters (def. orign netLogo CystiAgents)  -------
+#
+# paramenter determining the propbability of human infection given 
+# a exposure to lightly infected pork meat
+pl2Human 0.0032
+#paramenter determining the propbability of human infection given 
+#a exposure to lightly infected pork meat
+ph2Human 0.0046
+# paramenter connecting the prob of light pig infection with the overall 
+# village prevalence of tapeworm carriers
+lightFromAllPig 0.012
+#paramenter connecting the prob heavy pig infection with the overall 
+#village prevalence of tapeworm carriers
+heavyFromAllPig 0.056
+#paramenter determining the prob of seroconversion after a light exposure of pig
+lightSero 0.19
+#paramenter determining the prob of seroconversion after a heavy exposure of pig
+heavySero 0.14
+#paramenter determining the probability of heavy infection when the pig is heavy exposed
+heavyInfPig 0.0018
+#paramenter determining the probability of light infection when the pig is lightly exposed
+lightInfPig 0.018
+##############################################################
+# Interventions paramenters  --------------------------------
+
+# General humans intervention pramenters -----
+screenPart 0.75
+elisaSens 0.964
+screenTrtPart 0.918
+screenTrtEff 0.933
+treat1Part 0.15
+treat2Part 0.70
+treat1Eff 0.766
+treat2Eff 0.866
+treatMassPart 0.78
+treatFinalPart 0.736
+
+#General pigs intervention paramenters -------
+ageEligible 10
+treatPartP 0.6
+oxfProtection 17
+vaccPart 0.7
+vaccEff 0.99
+sacaPart 0.482
+
+#Ring strategy control intervention -------
+#meters?
+ringSize 100 
+tonguePart 0.72
+tongueSens 0.909
+tongueFp 0.021
+

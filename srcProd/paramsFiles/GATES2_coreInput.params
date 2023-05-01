@@ -1,0 +1,21 @@
+##############################################################
+# Taenia Sim World Input file
+##############################################################
+#number of steps eahc village run before sincronize with
+#the rest of the villages. 
+numStepSync 100
+##############################################################
+#name of the old CystiAgent NetLogo input file to be read 
+#to get villagbes and simulation paramenters values
+netLogoInputFile netLogoInputFile.params
+
+#switch on (true) and off (false) the human cysticercosis component
+cystiHumans  false
+
+#Read the names of villages included in the world simulation
+#only the village whose names are included in this list are simulated
+
+villagesNames GATES2_024
+
+#villagesNames GATES2_008 GATES2_009 GATES2_010 GATES2_011 GATES2_012 GATES2_013 GATES2_014 GATES2_015 GATES2_016 GATES2_017 GATES2_018 GATES2_019 GATES2_020 GATES2_021 GATES2_022 GATES2_023 GATES2_024 
+#

@@ -1,0 +1,9989 @@
+
+#######################
+#######################
+VillageAgentStart R01_583
+#----------------------
+HouseholdAgentStart 
+simId 11
+trialId 0
+shpId 17
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 25.731853508349687
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 710.524556930027
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 39
+age 3744
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm true
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 13
+infectionDuration 63
+tapeworm true
+tapewormMature true
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 56
+trialId 0
+shpId 85
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 34.58395867366314
+waterSuplyType homeConnection
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 133.18116420873932
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 201
+age 1508
+gender male
+education UniversityIncomplete
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 202
+age 3068
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 203
+age 3120
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 6
+trialId 0
+shpId 8
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 13.758534217107009
+waterSuplyType river-canal-spring
+numPigsCorraled 4
+numPigsAmarrados 0
+numPigsFree 0
+distClose 561.2257969837334
+targetNumOfPigs 3
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 19
+age 832
+gender male
+education 4secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 18
+age 676
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 16
+age 416
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 21
+age 2132
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 17
+age 520
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 20
+age 2028
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 6
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 79
+homeRange 70.79490855082884
+homeRangeArea 15745.408151810776
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 3.959999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70026
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 7
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 142
+homeRange 44.674764477762494
+homeRangeArea 6270.099257901037
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.6200000000000006
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70027
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 8
+censusIdentity 0
+age 35
+numCysts 5629
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 30.96420831006527
+homeRangeArea 3012.1031041917395
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.6299999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70028
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 19
+trialId 0
+shpId 26
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 33.720025391181174
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 219.16808983005546
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 69
+age 312
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 70
+age 1404
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 5
+trialId 0
+shpId 7
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 41.171169945894796
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 552.6476405450176
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 13
+age 312
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 14
+age 1352
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 15
+age 1716
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 57
+trialId 0
+shpId 87
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 38.65398179528156
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 172.3261674847852
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 204
+age 156
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 205
+age 260
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 206
+age 468
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 207
+age 1508
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 208
+age 1716
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 61
+censusIdentity 0
+age 35
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 37.49278271654479
+homeRangeArea 4416.164300402501
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 7.199999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65295
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 41
+trialId 0
+shpId 54
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 17.833497628284785
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 95.77031951476287
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 153
+age 832
+gender female
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 154
+age 1456
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 37
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 110
+homeRange 36.3599821198694
+homeRangeArea 4153.337226208167
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 15.750000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65598
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 38
+censusIdentity 0
+age 35
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 0
+homeRange 32.087894169620874
+homeRangeArea 3234.6873186536336
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 13.680000000000001
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65599
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 42
+trialId 0
+shpId 56
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 16.28741108385547
+waterSuplyType river-canal-spring
+numPigsCorraled 3
+numPigsAmarrados 0
+numPigsFree 0
+distClose 119.26379375177606
+targetNumOfPigs 3
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 155
+age 208
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 156
+age 3016
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 8
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 39
+censusIdentity 0
+age 35
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 1
+homeRange 30.536207431174745
+homeRangeArea 2929.409373547806
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 6.749999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70115
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 40
+censusIdentity 0
+age 35
+numCysts 6
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 59
+homeRange 22.43649768961161
+homeRangeArea 1581.4665218575344
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.609999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70116
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 41
+censusIdentity 0
+age 126
+numCysts 8386
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 60
+homeRange 19.09585424500496
+homeRangeArea 1145.586942706284
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 2.519999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70117
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 18
+trialId 0
+shpId 24
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 28.020161946571946
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 378.15584353517846
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 63
+age 260
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 64
+age 624
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 65
+age 832
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 66
+age 1196
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 67
+age 2236
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 68
+age 2860
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 16
+censusIdentity 0
+age 22
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 72.32505023538506
+homeRangeArea 16433.39751166468
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 16.200000000000003
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65300
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 63
+trialId 0
+shpId 97
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 28.135473929048093
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 0.0
+targetNumOfPigs 14
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 230
+age 2496
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 231
+age 2496
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 30
+censusIdentity 0
+age 35
+numCysts 632
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 2
+homeRange 21.900754880747286
+homeRangeArea 1506.8431272964997
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 0.9
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65584
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 31
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 54
+homeRange 27.45151822951052
+homeRangeArea 2367.4597799643307
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 1.8
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65585
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 32
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 65
+homeRange 50.901965211800885
+homeRangeArea 8139.898177486545
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 2.52
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65586
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 44
+censusIdentity 0
+age 26
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 81
+homeRange 42.72773841042095
+homeRangeArea 5735.478880524729
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.25
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70030
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 45
+censusIdentity 0
+age 26
+numCysts 4
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 230
+homeRange 17.440810225514394
+homeRangeArea 955.6155008857444
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.9
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70031
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 46
+censusIdentity 0
+age 44
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 57
+homeRange 30.415121353334104
+homeRangeArea 2906.2232971422804
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.8
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70032
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 47
+censusIdentity 0
+age 44
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 48
+homeRange 53.62351801741361
+homeRangeArea 9033.592135757895
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.61
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70033
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 48
+censusIdentity 0
+age 44
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 82
+homeRange 41.522334617957924
+homeRangeArea 5416.4333153327725
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.07
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70034
+numBands 1
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 49
+censusIdentity 0
+age 17
+numCysts 5
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 119
+homeRange 92.85773886713041
+homeRangeArea 27088.570106608484
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 8.459999999999997
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70035
+numBands 3
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 50
+censusIdentity 0
+age 17
+numCysts 4
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 55
+homeRange 61.15400290974764
+homeRangeArea 11748.966130841667
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.6999999999999997
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70036
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 51
+censusIdentity 0
+age 78
+numCysts 4
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 49
+homeRange 47.692095996142655
+homeRangeArea 7145.665652344771
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.4299999999999997
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70104
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 52
+censusIdentity 0
+age 9
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 64
+homeRange 32.29578285196723
+homeRangeArea 3276.7363983762257
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.8
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70105
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 53
+censusIdentity 0
+age 78
+numCysts 8
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 75
+homeRange 46.60120765752935
+homeRangeArea 6822.51054523094
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.4299999999999997
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70106
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 54
+censusIdentity 0
+age 9
+numCysts 2
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 82
+homeRange 28.3345762323646
+homeRangeArea 2522.22203932466
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.8
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70107
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 0
+trialId 0
+shpId 1
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 21.09272683000441
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 512.9859647194661
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 0
+age 2028
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 1
+age 3276
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 2
+age 3484
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 10
+trialId 0
+shpId 15
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 42.69415908208846
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 583.4046761898919
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 32
+age 416
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 35
+age 780
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 33
+age 728
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 38
+age 3380
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 11
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 36
+age 988
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 34
+age 780
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 37
+age 3276
+gender female
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 28
+trialId 0
+shpId 38
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 36.80890644637826
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 128.76648360512945
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 101
+age 2444
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 2
+trialId 0
+shpId 3
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 85.649351363237
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 2
+distClose 523.0617345017812
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 7
+age 3328
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 5
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 6
+age 3172
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 1
+censusIdentity 0
+age 30
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 2
+homeRange 24.53059425684459
+homeRangeArea 1890.453550809569
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.0
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70016
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 4
+trialId 0
+shpId 6
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 25.70966086332824
+waterSuplyType river-canal-spring
+numPigsCorraled 3
+numPigsAmarrados 0
+numPigsFree 0
+distClose 500.5484244305827
+targetNumOfPigs 3
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 12
+age 1144
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 3
+censusIdentity 0
+age 17
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 256
+homeRange 22.613080724498822
+homeRangeArea 1606.4578640119528
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.08999999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70017
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 4
+censusIdentity 0
+age 17
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 24.95281378648445
+homeRangeArea 1956.0904102848294
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.08999999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70018
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 5
+censusIdentity 0
+age 30
+numCysts 3600
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 42
+homeRange 29.43313288910525
+homeRangeArea 2721.5909692717682
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.08999999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70019
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 16
+trialId 0
+shpId 22
+type family house
+pigOwner false
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 27.72614828915803
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 435.79267478861675
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 50
+age 156
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 51
+age 676
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 52
+age 988
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 53
+age 1300
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 54
+age 1404
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 55
+age 2184
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 56
+age 3120
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 45
+trialId 0
+shpId 62
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 18.061592152261845
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 93.52754941724174
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 162
+age 416
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 163
+age 676
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 164
+age 1560
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 12
+trialId 0
+shpId 18
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 46.45419243225687
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 823.8115955725091
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 41
+age 3016
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 40
+age 2704
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 12
+censusIdentity 0
+age 35
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 1
+homeRange 53.5423216351524
+homeRangeArea 9006.255634884186
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.6299999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70023
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 13
+censusIdentity 0
+age 9
+numCysts 7
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 54
+homeRange 37.854984211346206
+homeRangeArea 4501.901737396441
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.6299999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70024
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 9
+trialId 0
+shpId 12
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 34.20224168567092
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 589.8864894196535
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 30
+age 1872
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 31
+age 3952
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 61
+trialId 0
+shpId 94
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 18.712183234999962
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 57.38892750367016
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 224
+age 2444
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 34
+trialId 0
+shpId 45
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 28.16017591445713
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 1
+numPigsFree 0
+distClose 196.14655133287525
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 123
+age 364
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 127
+age 1768
+gender female
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 122
+age 260
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 124
+age 832
+gender female
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 125
+age 1040
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 126
+age 1716
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 128
+age 3068
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 129
+age 3380
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 24
+censusIdentity 0
+age 26
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 3
+homeRange 72.80704472849503
+homeRangeArea 16653.160935869833
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 3.7799999999999994
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65591
+numBands 1
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 25
+censusIdentity 0
+age 26
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 34
+homeRange 61.064544821141524
+homeRangeArea 11714.617723372137
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 2.7899999999999996
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65592
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 27
+trialId 0
+shpId 36
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 31.415846610295475
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 153.4794465071814
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 99
+age 1976
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 100
+age 2184
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 98
+age 572
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 55
+trialId 0
+shpId 84
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 36.6447408570756
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 120.44742255383785
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 199
+age 1924
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 200
+age 2652
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 36
+trialId 0
+shpId 47
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 41.962152464448025
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 138.19917691469666
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 136
+age 3900
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 8
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 135
+age 3484
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 26
+censusIdentity 0
+age 22
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 91
+homeRange 42.18389881264987
+homeRangeArea 5590.405439083405
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 5.850000000000001
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65587
+numBands 3
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 27
+censusIdentity 0
+age 22
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 2
+homeRange 44.70020612280082
+homeRangeArea 6277.2427566612905
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 7.740000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65588
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 53
+trialId 0
+shpId 82
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 10.069527745264793
+waterSuplyType homeConnection
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 110.29079970702516
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 193
+age 3432
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 11
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 192
+age 3380
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 191
+age 1820
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 49
+trialId 0
+shpId 75
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 13.734716497631586
+waterSuplyType river-canal-spring
+numPigsCorraled 5
+numPigsAmarrados 0
+numPigsFree 0
+distClose 84.93124572270051
+targetNumOfPigs 4
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 179
+age 4680
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 178
+age 2808
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 176
+age 780
+gender male
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 177
+age 2652
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 175
+age 208
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 55
+censusIdentity 0
+age 26
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 44.24424448042513
+homeRangeArea 6149.834656763842
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.43
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65600
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 56
+censusIdentity 0
+age 26
+numCysts 3
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 67
+homeRange 126.22269425190926
+homeRangeArea 50052.38365424756
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 32.66999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70101
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 57
+censusIdentity 0
+age 26
+numCysts 3
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 34
+homeRange 27.354373653011358
+homeRangeArea 2350.7336417333863
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.6200000000000003
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70102
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 58
+censusIdentity 0
+age 104
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 138
+homeRange 39.60267673431087
+homeRangeArea 4927.185967503241
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.0700000000000007
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70103
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 62
+trialId 0
+shpId 95
+type family house
+pigOwner false
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 20.872590643686657
+waterSuplyType river-canal-spring
+numPigsCorraled 4
+numPigsAmarrados 0
+numPigsFree 0
+distClose 46.18697327099366
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 225
+age 884
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 227
+age 1144
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 229
+age 3120
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 226
+age 1040
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 228
+age 2808
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 35
+trialId 0
+shpId 46
+type family house
+pigOwner false
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 25.01073243277042
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 195.7519803223206
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 130
+age 208
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 131
+age 312
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 132
+age 416
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 133
+age 1612
+gender female
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 134
+age 1872
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 38
+trialId 0
+shpId 50
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 20.321704228753934
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 108.47623241974598
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 142
+age 312
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 143
+age 468
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 144
+age 1664
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 60
+trialId 0
+shpId 90
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 48.235355388082255
+waterSuplyType homeConnection
+numPigsCorraled 3
+numPigsAmarrados 0
+numPigsFree 0
+distClose 151.43159511738696
+targetNumOfPigs 3
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 220
+age 676
+gender female
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 218
+age 416
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 222
+age 1976
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 7
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 217
+age 260
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 221
+age 832
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 223
+age 2288
+gender male
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 219
+age 520
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 62
+censusIdentity 0
+age 22
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 2
+homeRange 40.04329728881846
+homeRangeArea 5037.435930704527
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 3.1499999999999986
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65297
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 63
+censusIdentity 0
+age 52
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 59
+homeRange 37.964876496296505
+homeRangeArea 4528.077543111019
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 2.969999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65298
+numBands 1
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 64
+censusIdentity 0
+age 65
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 151
+homeRange 50.041614582728634
+homeRangeArea 7867.060681239624
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 5.489999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65299
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 47
+trialId 0
+shpId 67
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 10.268159485698927
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 40.000542496509134
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 169
+age 468
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 170
+age 780
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 171
+age 3328
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 42
+censusIdentity 0
+age 26
+numCysts 21
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 69
+homeRange 41.500470153203835
+homeRangeArea 5410.7305418171045
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 3.3299999999999996
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65582
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 43
+censusIdentity 0
+age 70
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 1
+homeRange 50.72509085489532
+homeRangeArea 8083.427357803541
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 5.039999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65583
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 21
+trialId 0
+shpId 28
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 30.51294881148937
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 209.65345525395662
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 72
+age 728
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 73
+age 1092
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 59
+trialId 0
+shpId 89
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 43.714697909476556
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 193.6612449606637
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 214
+age 520
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 215
+age 936
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 216
+age 2600
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 13
+trialId 0
+shpId 19
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 55.46535505627846
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 840.5417015235527
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 42
+age 572
+gender female
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 43
+age 572
+gender female
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 44
+age 832
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 45
+age 1664
+gender female
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 46
+age 2080
+gender male
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm true
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 62
+infectionDuration 143
+tapeworm true
+tapewormMature true
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 14
+censusIdentity 0
+age 35
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 1
+homeRange 72.74250909756898
+homeRangeArea 16623.651540482268
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.6299999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70025
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 50
+trialId 0
+shpId 76
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 12.704994329034383
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 104.41329656707744
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 182
+age 2028
+gender female
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 8
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 181
+age 780
+gender female
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 180
+age 520
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 59
+censusIdentity 0
+age 26
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 85
+homeRange 22.8573912330738
+homeRangeArea 1641.3575470292892
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.4400000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70112
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 60
+censusIdentity 0
+age 26
+numCysts 18427
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 22.01589555667628
+homeRangeArea 1522.7288821391335
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.4400000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70113
+numBands 1
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 8
+trialId 0
+shpId 11
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 21.78223184152113
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 574.4341057076196
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 25
+age 52
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 26
+age 468
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 27
+age 676
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 28
+age 1768
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 29
+age 1976
+gender male
+education 4secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 11
+censusIdentity 0
+age 13
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 2
+homeRange 71.09346767695722
+homeRangeArea 15878.492518502055
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.26
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70022
+numBands 1
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 43
+trialId 0
+shpId 60
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 23.199494996179926
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 119.40480476093896
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 157
+age 260
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 158
+age 988
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 159
+age 2288
+gender female
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 160
+age 2444
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 3
+trialId 0
+shpId 5
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 9.507777622043449
+waterSuplyType river-canal-spring
+numPigsCorraled 1
+numPigsAmarrados 0
+numPigsFree 0
+distClose 507.29979795007745
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 11
+age 3120
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 9
+age 1352
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 10
+age 2912
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 8
+age 104
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 2
+censusIdentity 0
+age 26
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 41.598409913853864
+homeRangeArea 5436.298973013594
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.2600000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70029
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 52
+trialId 0
+shpId 80
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 70.05163471329645
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 128.80815657391895
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 186
+age 728
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 187
+age 936
+gender male
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 188
+age 1508
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 189
+age 2808
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 190
+age 3016
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 31
+trialId 0
+shpId 42
+type family house
+pigOwner false
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 37.07084782041748
+waterSuplyType river-canal-spring
+numPigsCorraled 4
+numPigsAmarrados 0
+numPigsFree 0
+distClose 147.3756645445648
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 112
+age 3068
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 113
+age 3276
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 39
+trialId 0
+shpId 52
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 14.088184964935579
+waterSuplyType river-canal-spring
+numPigsCorraled 5
+numPigsAmarrados 0
+numPigsFree 0
+distClose 98.67067852289938
+targetNumOfPigs 4
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 146
+age 2964
+gender male
+education 4primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 145
+age 2756
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 33
+censusIdentity 0
+age 17
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 59
+homeRange 15.411708716482188
+homeRangeArea 746.1934921636384
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 3.78
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70108
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 34
+censusIdentity 0
+age 13
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 2
+homeRange 28.44835133183035
+homeRangeArea 2542.5182459836087
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 10.440000000000001
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70109
+numBands 3
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 35
+censusIdentity 0
+age 17
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 89
+homeRange 20.35621373852794
+homeRangeArea 1301.7988311219942
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 4.68
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70110
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 36
+censusIdentity 0
+age 13
+numCysts 66
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 137
+homeRange 100.40619543254085
+homeRangeArea 31671.664999486162
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 25.10999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70111
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 58
+trialId 0
+shpId 88
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 29.735811772016575
+waterSuplyType homeConnection
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 184.8895121420707
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 210
+age 728
+gender male
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 209
+age 572
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 211
+age 832
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 213
+age 2756
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 212
+age 2444
+gender female
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 54
+trialId 0
+shpId 83
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 18.454847515077088
+waterSuplyType homeConnection
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 109.70084092685005
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 195
+age 572
+gender male
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 194
+age 364
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 198
+age 2236
+gender male
+education NoUniversityComplete
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 7
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 197
+age 1716
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 196
+age 780
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 26
+trialId 0
+shpId 35
+type family house
+pigOwner true
+corralUse always
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 57.83367539349862
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 123.81252319565527
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 95
+age 260
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 94
+age 156
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 96
+age 1300
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 7
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 97
+age 1508
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 18
+censusIdentity 0
+age 52
+numCysts 56029
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled always
+slaughterAge 0
+homeRange 127.59279618406819
+homeRangeArea 51144.882219175604
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 30.32999999999998
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70114
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 51
+trialId 0
+shpId 78
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 46.270495265493174
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 145.11603770781306
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 183
+age 624
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 184
+age 728
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 185
+age 2236
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 37
+trialId 0
+shpId 48
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 33.99130018283218
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 122.12311533831394
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 137
+age 728
+gender female
+education 1secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 138
+age 832
+gender female
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 139
+age 1352
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 140
+age 2548
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 141
+age 2756
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 28
+censusIdentity 0
+age 26
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 105
+homeRange 104.67163107231451
+homeRangeArea 34419.761455390944
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 25.559999999999985
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65589
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 29
+censusIdentity 0
+age 78
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 54.381129091155024
+homeRangeArea 9290.654577788802
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 19.889999999999997
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65590
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 25
+trialId 0
+shpId 34
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 54.5315784864203
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 128.33481561898503
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 89
+age 52
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 90
+age 364
+gender male
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 91
+age 624
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 92
+age 2080
+gender female
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 93
+age 2080
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 1
+trialId 0
+shpId 2
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 50.521241018992725
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 530.4908905905792
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 4
+age 2912
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 5
+age 4368
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 3
+age 624
+gender male
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 0
+censusIdentity 0
+age 26
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 63.14824874395245
+homeRangeArea 12527.733169825618
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.0
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70203
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 48
+trialId 0
+shpId 71
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 33.775505483550965
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 77.96796265121853
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 172
+age 884
+gender male
+education 4secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 173
+age 4212
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 174
+age 4264
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 24
+trialId 0
+shpId 32
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 10.38638391618333
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 207.10082206519064
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 87
+age 2340
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 88
+age 2548
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 86
+age 624
+gender female
+education 5primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 29
+trialId 0
+shpId 39
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 39.162093993049936
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 129.15292176294457
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 102
+age 52
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 103
+age 312
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 104
+age 416
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 105
+age 572
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 106
+age 1508
+gender female
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 107
+age 1612
+gender male
+education 5secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 19
+censusIdentity 0
+age 13
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 22.670277027554793
+homeRangeArea 1614.5947167011052
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 8.55
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65597
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 22
+trialId 0
+shpId 29
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 28.43803339664911
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 208.89273132393527
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 76
+age 416
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 77
+age 520
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 75
+age 312
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 79
+age 2340
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm true
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 9
+timeSinceInfection 1
+infectionDuration 153
+tapeworm true
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 74
+age 156
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 78
+age 1820
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 40
+trialId 0
+shpId 53
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 38.17075627619704
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 99.11403785601183
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 147
+age 104
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 148
+age 208
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 149
+age 312
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 150
+age 416
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 151
+age 1352
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 152
+age 2132
+gender male
+education 2secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 44
+trialId 0
+shpId 61
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 50.0571193839688
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 107.99437253857994
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 161
+age 3796
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 17
+trialId 0
+shpId 23
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 18.900048054801005
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 397.6882298990608
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 57
+age 104
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 58
+age 156
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 59
+age 1352
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 60
+age 1716
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 61
+age 4212
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 62
+age 4212
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 15
+censusIdentity 0
+age 22
+numCysts 0
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 31.976029462420268
+homeRangeArea 3212.173119848378
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 9.000000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70201
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 20
+trialId 0
+shpId 27
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 61.76842695708757
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 216.815637120086
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 71
+age 4368
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 32
+trialId 0
+shpId 43
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 60.72102773671133
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 154.40835469614527
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 114
+age 2340
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 115
+age 4368
+gender male
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm true
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 19
+infectionDuration 67
+tapeworm true
+tapewormMature true
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 14
+trialId 0
+shpId 20
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 29.43597631597723
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 785.868979537876
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 47
+age 3224
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 48
+age 4368
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 33
+trialId 0
+shpId 44
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 33.427646599778335
+waterSuplyType river-canal-spring
+numPigsCorraled 2
+numPigsAmarrados 0
+numPigsFree 0
+distClose 190.3743966509895
+targetNumOfPigs 4
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 116
+age 52
+gender female
+education 
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm true
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 91
+infectionDuration 157
+tapeworm true
+tapewormMature true
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 117
+age 1092
+gender female
+education 5secundary
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 118
+age 1456
+gender male
+education 5secundary
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 119
+age 1976
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 120
+age 3224
+gender female
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 121
+age 3380
+gender male
+education 1primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 20
+censusIdentity 0
+age 17
+numCysts 4
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 121
+homeRange 54.10220211374579
+homeRangeArea 9195.5933529081
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 2.7899999999999996
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65593
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 21
+censusIdentity 0
+age 17
+numCysts 0
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 106
+homeRange 54.62468500687393
+homeRangeArea 9374.06075530225
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 2.7899999999999996
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65594
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 22
+censusIdentity 0
+age 17
+numCysts 1
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 1
+homeRange 39.58914517152887
+homeRangeArea 4923.819471027788
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 1.7100000000000004
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65595
+numBands 2
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 23
+censusIdentity 0
+age 17
+numCysts 10
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled sometimes
+slaughterAge 29
+homeRange 122.76781424374609
+homeRangeArea 47349.88408586367
+dead false
+isCorraled false
+imported true
+numSteps 0
+numDefecationSitesInHomeRange 22.40999999999999
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65596
+numBands 0
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 7
+trialId 0
+shpId 10
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh true
+contRadiusHh 74.8116224142237
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 571.5491112757743
+targetNumOfPigs 2
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 22
+age 52
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 24
+age 1352
+gender male
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 5
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 23
+age 1144
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 9
+censusIdentity 0
+age 22
+numCysts 7
+seropositive false
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 68
+homeRange 64.61174627715604
+homeRangeArea 13115.136972444356
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 1.4400000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70020
+numBands 0
+PigAgentEnd 
+#----------------------
+PigAgentStart 
+identity 10
+censusIdentity 0
+age 13
+numCysts 3
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 21.734471069273685
+homeRangeArea 1484.0482597777077
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 0.35999999999999993
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 70021
+numBands 2
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 15
+trialId 0
+shpId 21
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh true
+contRadiusHh 30.985320955194034
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 797.2758672503161
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 49
+age 4212
+gender female
+education 2primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 8
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 30
+trialId 0
+shpId 40
+type family house
+pigOwner false
+corralUse never
+corral false
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 23.18651348918001
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 0
+numPigsFree 0
+distClose 123.18537575587467
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 108
+age 364
+gender female
+education kinder
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 109
+age 832
+gender male
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 110
+age 2340
+gender female
+education 6primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 111
+age 2496
+gender male
+education 3secundary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 46
+trialId 0
+shpId 64
+type family house
+pigOwner false
+corralUse sometimes
+corral true
+latrine true
+latrineUsers true
+sewerUsers false
+travelerHh false
+contRadiusHh 30.634702100507475
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 68.89842088176468
+targetNumOfPigs 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 165
+age 52
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 166
+age 312
+gender male
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 167
+age 1352
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 168
+age 1664
+gender female
+education NoUniversityComplete
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser true
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 23
+trialId 0
+shpId 31
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+sewerUsers false
+travelerHh false
+contRadiusHh 11.50121676452983
+waterSuplyType river-canal-spring
+numPigsCorraled 0
+numPigsAmarrados 1
+numPigsFree 0
+distClose 210.72716697157657
+targetNumOfPigs 1
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 80
+age 780
+gender male
+education 2secundary
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 81
+age 884
+gender male
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 82
+age 936
+gender male
+education 3secundary
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 83
+age 2028
+gender female
+education 3primary
+famRelation mather
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation mather
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 84
+age 2288
+gender female
+education 3primary
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 85
+age 3380
+gender female
+education 
+famRelation father
+studyParticipation false
+acceptedNMTreatment false
+GATESID 
+latrineUser false
+sewerUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+eligibleH false
+numWeekSteps 0
+famRelation father
+emigrated false
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+PigAgentStart 
+identity 17
+censusIdentity 0
+age 17
+numCysts 4
+seropositive true
+heavyInfected false
+markedForSlaughter false
+eligibleP false
+treated false
+treatmentProtectedTime 0.0
+stopSlaughterTimer 0.0
+vaccDose 0.0
+vaccinated false
+corraled never
+slaughterAge 0
+homeRange 75.30577091129598
+homeRangeArea 17815.843549610036
+dead false
+isCorraled false
+imported false
+numSteps 0
+numDefecationSitesInHomeRange 16.830000000000002
+numDegeneratedCystsIc 0
+numDegeneratedCystsIcThisTimeStep 0
+numDegeneratedCystsIi 0
+numCystsFromProglottids 0
+numCystsFromEggs 0
+immunityO 0.0
+immunityC 0.0
+GATESID 0
+R01ID 65294
+numBands 1
+PigAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+VillageAgentEnd: R01_583
+#######################
+#######################
+R01serologyDataStart
+obsSeroIncidencePigsRounds0 0.0
+obsSeroPrevalencePigsRounds0 0.0
+obsSeroPrevalencePigletsRounds0 0.0
+obsPrevTonguePositiveRounds0 0.0
+obsSeroIncidencePigsRounds1 0.5
+obsSeroPrevalencePigsRounds1 0.41304347826086957
+obsSeroPrevalencePigletsRounds1 0.5
+obsPrevTonguePositiveRounds1 0.0
+obsSeroIncidencePigsRounds2 0.45
+obsSeroPrevalencePigsRounds2 0.09090909090909091
+obsSeroPrevalencePigletsRounds2 0.5294117647058824
+obsPrevTonguePositiveRounds2 0.0
+obsSeroIncidencePigsRounds3 0.39473684210526316
+obsSeroPrevalencePigsRounds3 0.30434782608695654
+obsSeroPrevalencePigletsRounds3 0.5
+obsPrevTonguePositiveRounds3 0.0
+obsSeroIncidencePigsRounds4 0.1935483870967742
+obsSeroPrevalencePigsRounds4 0.23529411764705882
+obsSeroPrevalencePigletsRounds4 0.40229885057471265
+obsPrevTonguePositiveRounds4 0.0
+obsSeroIncidencePigsRounds5 0.3225806451612903
+obsSeroPrevalencePigsRounds5 0.24
+obsSeroPrevalencePigletsRounds5 0.42574257425742573
+obsPrevTonguePositiveRounds5 0.0
+obsSeroIncidencePigsRounds6 0.18181818181818182
+obsSeroPrevalencePigsRounds6 0.32
+obsSeroPrevalencePigletsRounds6 0.3609022556390977
+obsPrevTonguePositiveRounds6 0.0
+obsSeroIncidencePigsRounds7 0.2
+obsSeroPrevalencePigsRounds7 0.1896551724137931
+obsSeroPrevalencePigletsRounds7 0.35570469798657717
+obsPrevTonguePositiveRounds7 0.0
+R01serologyDataEnd

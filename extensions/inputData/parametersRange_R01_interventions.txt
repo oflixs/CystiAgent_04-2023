@@ -1,0 +1,13 @@
+#variation ranges of model parameters for ABC or sensistivity analysis
+#format: parameter name lower-limit upper-limit
+#########################
+niclosamideTreatEff 0.7 1.0
+oxfTreatEff 0.9 1.0
+elisaSens 0.8 1.0 
+nCystsTonguePositive 600 1500
+#########################
+#seroConvertEggs 0.0 1.0
+#seroConvertProglottids 0.0 1.0
+#seroConvertEggsPiglets 0.0 1.0
+#seroConvertProglottidsPiglets 0.0 1.0
+#propPigletsMaternalProtection 0.4 1.0

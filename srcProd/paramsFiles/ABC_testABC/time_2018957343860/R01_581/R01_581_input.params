@@ -1,0 +1,6 @@
+#Read the population surveies data from file
+readPopFromSurveyCensusFile false
+#-------------------------------------------
+#Extra parameters
+#Deterministic Individuals Allocation parameter
+deterministicIndividualsAllocation read

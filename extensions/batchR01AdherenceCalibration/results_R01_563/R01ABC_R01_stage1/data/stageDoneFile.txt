@@ -1,0 +1,10 @@
+16
+#global parameters ------
+#local parameters ------
+# village: R01_563  ------
+#adherenceToLatrineUse ll
+0.7834837154759776
+#adherenceToLatrineUse ul
+1.0
+#adherenceToLatrineUse bestRun
+0.9931521441495186

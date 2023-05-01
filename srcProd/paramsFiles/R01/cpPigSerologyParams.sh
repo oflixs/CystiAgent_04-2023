@@ -1,0 +1,27 @@
+#! /bin/bash
+
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_563 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_570 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_571 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_572 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_573 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_574 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_575 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_576 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_577 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_578 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_579 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_580 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_581 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_582 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_583 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_583 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_584 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_585 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_586 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_587 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_588 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_589 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_590 .
+cp -rv paraTransfFromTTEMPTransSerocConCali_nofurtherCalibration/R01_591 .
+

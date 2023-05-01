@@ -1,0 +1,6 @@
+#variation ranges of model parameters for ABC or sensistivity analysis
+#format: parameter name lower-limit upper-limit
+#########################
+seroConvert 0.0 1000.0
+seroConvertPtoEFact 0.0 0.8
+propPigletsMaternalProtection 0.4 1.0
